@@ -4,6 +4,12 @@
 
 // Typography
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap');
+body {
+    font-family: 'Noto Sans JP', Roboto, sans-serif;
+    font-weight: 400;
+}
+
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
@@ -17,6 +23,14 @@ a, table.table a {
   &:hover:after {
     width: 100%;
   }
+}
+
+strong {
+    font-weight: 700;
+}
+
+table td {
+    font-weight: 400;
 }
 
 // Math
