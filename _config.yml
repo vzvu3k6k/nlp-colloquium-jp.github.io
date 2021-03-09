@@ -3,9 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: NLPコロキウム
+name: NLPコロキウム
 email: nlp.colloquium.jp@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  NLPコロキウム は自然言語処理 (NLP) および 計算言語学 (CL) に関する最先端の研究・開発に取り組んでいる方をお招きするトークイベントです。
+  NLPコロキウムは自然言語処理 (NLP) および 計算言語学 (CL) に関する最先端の研究・開発に取り組んでいる方をお招きするトークイベントです。
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -33,8 +34,8 @@ max_width: 800px
 # Open Graph
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+og_image: /assets/img/ogp_logo_1200x630.v1.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration

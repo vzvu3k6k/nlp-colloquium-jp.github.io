@@ -1,6 +1,6 @@
 ---
 layout: top
-title: Top
+title: トップページ
 permalink: /
 description: 
 news: false  # includes a list of news items
