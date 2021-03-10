@@ -38,6 +38,8 @@ NLP/CLに興味を持っている周辺分野の学生のかたや研究を自�
 
 参加用URL等、NLPコロキウムに関するお知らせを受け取りたい方は[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdoLi9-yUvNfQAP_a71HRIBhLsXjwOPhEV-QdJXRvKPyiU5dQ/viewform?usp=sf_link)からメーリングリストへのご登録をお願いします。
 
+[フィードバックもお待ちしています。](https://docs.google.com/forms/d/e/1FAIpQLSe5XVK37sHc2ZPu6vIk3VEIjjtgplWqWze9yrMgnnDr6ooorw/viewform?usp=sf_link)
+
 ## アンチハラスメントポリシー
 
 参加にあたっては[アンチハラスメントポリシー](/anti-harassment_policy/)の遵守をお願いします。
