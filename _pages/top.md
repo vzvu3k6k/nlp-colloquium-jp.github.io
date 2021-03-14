@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 
 ## 発表
 
-ACLやEMNLP、あるいはNeurIPSやICLRなどこれらに準ずる国際会議・論文誌に定期的に採択されているかたを中心にお招きし、半年から1年前に公開された最新の研究を中心にご講演をお願いする予定です。講演は基本的に日本語の予定です。また、許可をいただけた講演に関してはアーカイブ配信を行う予定です。
+ACLやEMNLP、あるいはNeurIPSやICLRなどこれらに準ずる国際会議・論文誌に定期的に採択されているかたを中心にお招きし、主に半年から1年前に公開された最新の研究に関してご講演をお願いする予定です。講演は基本的に日本語の予定です。また、許可をいただけた講演に関してはアーカイブ配信を行う予定です。
 
 講演者に関して推薦があれば[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdlX-f9ybTi6DeXmd1HILInb1wovKeBxKSxZct8cqppCwBvfw/viewform?usp=sf_link)からお知らせください。
 
