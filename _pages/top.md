@@ -39,7 +39,7 @@ ACLやEMNLP、あるいはNeurIPSやICLRなどこれらに準ずる国際会議�
 トークは完全にオンラインで行いますので、これまで東京や米国でのセミナーに地理的な制約で参加しづらかった方もどしどしご参加ください。
 NLP/CLに興味を持っている周辺分野の学生のかたや研究を自社サービスに活かしたい企業の方の参加も歓迎します。
 
-**参加方法**：参加用URLなどNLPコロキウムに関するお知らせを受け取りたい方は[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdoLi9-yUvNfQAP_a71HRIBhLsXjwOPhEV-QdJXRvKPyiU5dQ/viewform?usp=sf_link)からメーリングリストへのご登録をお願いします。
+**<font color='red'>参加方法</font>**：参加用URLなどNLPコロキウムに関するお知らせを受け取りたい方は[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdoLi9-yUvNfQAP_a71HRIBhLsXjwOPhEV-QdJXRvKPyiU5dQ/viewform?usp=sf_link)からメーリングリストへのご登録をお願いします。
 
 ## アンチハラスメントポリシー
 
