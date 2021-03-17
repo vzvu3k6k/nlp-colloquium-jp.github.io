@@ -1,37 +1,40 @@
 <div class="schedule">
-<h2>スケジュール</h2>
-    隔週水曜日の12時-13時 (日本標準時間) を基本として開催します。
-    <div class="table-responsive">
+  <h1>スケジュール</h1>
+  隔週水曜日の12時-13時 (日本標準時間) を基本として開催します。
+  <div class="table-responsive">
     <table class="table table-sm table-borderless">
       <thead>
         <tr><th>日時</th><th>スピーカー</th><th>トピック</th></tr>
       </thead>
       <tbody>
-      {% for item in site.schedule %}
-        {% if item.display %}
-          <tr>
-            <th scope="row">{{ item.date | date: "%Y/%m/%d (%a) %H:%M (%Z)" }}</th>
-            <td>
-              {% if item.inline %}
-                {% if item.website %}<a href="{{ item.website }}" target="_blank">{% endif %}
+        {% for item in site.schedule %}
+          {% if item.display %}
+            <tr>
+              <th scope="row">{{ item.date | date: "%Y/%m/%d (%a) %H:%M (%Z)" }}</th>
+              <td>
+                {% if item.inline %}
+                  {% if item.website %}<a href="{{ item.website }}" target="_blank">{% endif %}
                   {{ item.name | remove: '<p>' | remove: '</p>' | emojify }}
-                {% if item.website %}</a>{% endif %}<br>
-                {% if item.affiliation %}({{ item.affiliation }}){% endif %}
-              {% else %}
-                <a class="schedule-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              {% endif %}
-            </td>
-            <td>
-              {% if item.topic %}
-                 {{ item.topic }}
-              {% else %}
-                 TBA
-              {% endif %}
-            </td>
-          </tr>
-        {% endif %}
-       {% endfor %}
-       </tbody>
+                  {% if item.website %}</a>{% endif %}<br>
+                  {% if item.affiliation %}({{ item.affiliation }}){% endif %}
+                {% else %}
+                  <a class="schedule-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% endif %}
+              </td>
+              <td>
+                {% if item.topic %}
+                  {{ item.topic }}
+                  {% if item.content %}
+                    {{ item.content }}
+                  {% endif %}
+                {% else %}
+                  TBA
+                {% endif %}
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+      </tbody>
     </table>
-    </div>
+  </div>
 </div>
