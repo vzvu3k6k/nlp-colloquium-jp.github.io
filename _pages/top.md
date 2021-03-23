@@ -29,7 +29,7 @@ social: false  # includes social icons at the bottom of the page
 
 興味のある方は誰でも歓迎いたします。参加費無料です。
 トークは完全にオンラインで行いますので、これまで地理的・時間的な制約でセミナーに参加しづらかった方もどしどしご参加ください。
-NLP/CLに興味を持っている周辺分野の学生の方や研究を自社サービスに活かしたい企業の方の参加も歓迎します。
+NLP/CLに興味を持っている周辺分野の学生の方や研究を自社サービスに活かしたい企業の方の参加も大歓迎です。
 
 **<font color='red'>メーリングリストへの登録</font>**: 参加用URLなどNLPコロキウムに関するお知らせを受け取りたい方は[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdoLi9-yUvNfQAP_a71HRIBhLsXjwOPhEV-QdJXRvKPyiU5dQ/viewform?usp=sf_link)からメーリングリストへのご登録をお願いします。
 
@@ -44,7 +44,7 @@ NLP/CLに興味を持っている周辺分野の学生の方や研究を自社�
 
 ## (1) 発表 (15-20分) + QA
 
-ACLやEMNLP、あるいはNeurIPSやICLRなどこれらに準ずる国際会議・論文誌に定期的に採択されているかたを中心にお招きし、主に半年から1年前に公開された最新の研究に関して短めの講演していただきます。講演は基本的に日本語の予定です。また、許可をいただけた講演に関してはYouTubeにて[アーカイブ配信](https://www.youtube.com/channel/UCHMmZqchxs-kiBEEyoIUkNw)を行っています。
+ACLやEMNLP、あるいはNeurIPSやICLRなどこれらに準ずる国際会議・論文誌を主戦場としているかたを中心にお招きし、主に半年から1年前に公開された最新の研究に関して短めの講演していただきます。講演は基本的に日本語の予定です。また、許可をいただけた講演に関してはYouTubeにて[アーカイブ配信](https://www.youtube.com/channel/UCHMmZqchxs-kiBEEyoIUkNw)を行っています。
 
 講演者に関して推薦があれば[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdlX-f9ybTi6DeXmd1HILInb1wovKeBxKSxZct8cqppCwBvfw/viewform?usp=sf_link)からお知らせください。
 
