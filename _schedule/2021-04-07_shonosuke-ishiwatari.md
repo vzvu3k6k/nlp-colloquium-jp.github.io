@@ -12,4 +12,4 @@ We tackle the problem of machine translation of manga. Manga translation involve
 display: true
 ---
 
-[[paper]](https://arxiv.org/abs/2012.14271)
+[[paper]](https://arxiv.org/abs/2012.14271) (AAAI 2021)
