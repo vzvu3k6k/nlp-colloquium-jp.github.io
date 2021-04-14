@@ -12,5 +12,5 @@ We tackle the problem of machine translation of manga. Manga translation involve
 display: true
 ---
 
-[[paper]](https://arxiv.org/abs/2012.14271) (AAAI 2021), [[video]](https://youtu.be/bVs6cpLZtbw)
+[[video]](https://youtu.be/bVs6cpLZtbw) [[paper]](https://arxiv.org/abs/2012.14271) (AAAI 2021)
 
