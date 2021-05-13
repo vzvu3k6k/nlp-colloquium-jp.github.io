@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-16-16 12:00:00+0900
+date: 2021-06-16 12:00:00+0900
 inline: true
 name: 栗林樹生
 affiliation: 東北大学
