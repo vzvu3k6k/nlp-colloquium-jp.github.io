@@ -11,4 +11,4 @@ abstract: "Multilingual question answering tasks typically assume answers exist 
 display: true
 ---
 
-[[paper]](https://arxiv.org/abs/2010.11856) (NAACL 2021)
+[[video]](https://youtu.be/_IeWu34gpss) [[paper]](https://arxiv.org/abs/2010.11856) (NAACL 2021)

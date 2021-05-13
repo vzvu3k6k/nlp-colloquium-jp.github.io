@@ -11,4 +11,4 @@ abstract: "頑健なニューラルモデル構築のために、微小なノイ
 display: true
 ---
 
-[[paper]](https://arxiv.org/abs/2104.01853) (NAACL 2021)
+[[video]](https://youtu.be/jleVcNSKylw) [[paper]](https://arxiv.org/abs/2104.01853) (NAACL 2021)
