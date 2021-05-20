@@ -22,8 +22,8 @@ timezone: Asia/Tokyo
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
-footer_fixed: true
+navbar_fixed: false
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -41,6 +41,7 @@ og_image: /assets/img/ogp_logo_1200x630.v1.png # The site-wide (default for all 
 # Social integration
 # -----------------------------------------------------------------------------
 
+youtube_username: UCHMmZqchxs-kiBEEyoIUkNw
 github_username: # your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -55,8 +56,8 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+google_analytics: # out your google-analytics code
+panelbear_analytics: # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -165,7 +166,7 @@ enable_mansory:             true
 enable_math:                true
 enable_tooltips:            false
 enable_darkmode:            false
-show_social_icons:          false
+show_social_icons:          true
 
 # -----------------------------------------------------------------------------
 # Library versions
