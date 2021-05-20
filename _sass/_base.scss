@@ -109,6 +109,22 @@ table td {
 
 // Navbar customization
 
+@media (min-width: 330px) {
+    .navbar-brand img {
+        width: 260px;
+        height: 50px;
+    }
+}
+@media (max-width: 330px) {
+    .navbar-brand img {
+        width: 100%;
+        height: auto;
+    }
+    #socialIcons {
+        display: none;
+    }
+}
+
 .navbar {
     box-shadow: none;
     border-bottom: 1px solid $grey-color-light;
@@ -148,6 +164,7 @@ table td {
         }
     }
     #socialIcons {
+        padding-left: 10px;
         i {
             font-size: 1.5rem;
         }
