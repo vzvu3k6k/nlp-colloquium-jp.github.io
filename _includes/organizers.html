@@ -1,12 +1,14 @@
 <h2>スタッフ</h2>
-<div class="organizers clearfix">
-{% for organizer in site.data.staff.Organizers %}
-<div class="organizer-profile-two-col">
-<a href="{{ organizer.url }}" target="_blank"><img src="{{ organizer.image | prepend: '/assets/img/' | relative_url }}" /></a>
-<ul class="organizer-info">
-<li><span>オーガナイザー</span> <a href="{{ organizer.url }}" target="_blank">{{ organizer.name }}</a></li>
-<li><span>所属:</span> {{ organizer.affiliation }}</li>
-</ul>
-</div>
-{% endfor %}
+<div class="row organizers">
+  {% for organizer in site.data.staff.Organizers %}
+    <div class="col organizer-profile">
+      <a href="{{ organizer.url }}" target="_blank"><img class="card-img-top" src="{{ organizer.image | prepend: '/assets/img/' | relative_url }}" alt="{{ organizer.name }} プロフィール画像" /></a>
+      <div class="organizer-info">
+        <p>
+          <a href="{{ organizer.url }}" target="_blank">{{ organizer.name }}</a><br>
+          {{ organizer.affiliation }}<br>
+        </p>
+      </div>
+    </div>
+  {% endfor %}
 </div>
