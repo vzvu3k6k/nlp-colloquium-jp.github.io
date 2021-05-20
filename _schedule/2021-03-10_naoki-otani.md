@@ -11,4 +11,4 @@ abstract: 本発表では複合語表現 (multi-word expressions) に焦点を�
 display: true
 ---
 
-[[video1]](https://youtu.be/Dq7INrMVuyw) [[video2]](https://youtu.be/OvSlKXeEOP4) [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.360/) (EMNLP2020)
+[[動画1]](https://youtu.be/Dq7INrMVuyw) [[動画2]](https://youtu.be/OvSlKXeEOP4) [[論文]](https://www.aclweb.org/anthology/2020.emnlp-main.360/) (EMNLP 2020)

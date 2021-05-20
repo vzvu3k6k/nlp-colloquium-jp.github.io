@@ -41,6 +41,19 @@
     max-width: $max-content-width;
 }
 
+table#scheduleTable {
+    .talk-info {
+        p {
+            display: inline;
+        }
+
+        p.abstract {
+            display: block !important;
+            padding: 1rem;
+        }
+    }
+}
+
 /******************************************************************************
  * Publications
  ******************************************************************************/
