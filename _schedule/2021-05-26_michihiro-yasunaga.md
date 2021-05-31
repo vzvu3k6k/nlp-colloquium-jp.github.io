@@ -11,4 +11,4 @@ abstract: "Question answering systems need to access relevant knowledge and reas
 display: true
 ---
 
-[[論文]](https://arxiv.org/abs/2104.06378) (NAACL 2021)
+[[動画]](https://youtu.be/oifFhoqmWso) [[論文]](https://arxiv.org/abs/2104.06378) (NAACL 2021)
