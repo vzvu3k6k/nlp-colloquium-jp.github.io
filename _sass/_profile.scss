@@ -5,6 +5,7 @@
 
 %organizer-profile {
     margin-bottom: 2%;
+    text-align: center;
 
     @media screen and (min-width: 676px) {
         max-height: 130px;
@@ -20,9 +21,9 @@
     }
 
     div.organizer-info {
-        display: inline-block;
-        vertical-align: middle;
+        margin-top: 2%;
         min-width: 100px;
+        vertical-align: middle;
 
         a {
             &:hover {
