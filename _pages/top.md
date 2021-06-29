@@ -14,6 +14,7 @@ social: false  # includes social icons at the bottom of the page
 
 参加用URLなどNLPコロキウムに関するお知らせを受け取りたい方は[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdoLi9-yUvNfQAP_a71HRIBhLsXjwOPhEV-QdJXRvKPyiU5dQ/viewform?usp=sf_link)からメーリングリストへのご登録をお願いします。
 
+
 # 主旨
 
 人工知能技術が著しい発展を遂げ、中でもコミュニケーションと知識表現のための主要メディアである言語の処理に世界中の注目が集まっています。多くの人がNLP/CLの研究・開発に従事するようになり、日本も例外ではありません。
@@ -32,7 +33,11 @@ social: false  # includes social icons at the bottom of the page
 トークは完全にオンラインで行いますので、これまで地理的・時間的な制約でセミナーに参加しづらかった方もどしどしご参加ください。
 NLP/CLに興味を持っている周辺分野の学生の方や研究を自社サービスに活かしたい企業の方の参加も大歓迎です。
 
-**<font color='red'>メーリングリストへの登録</font>**: 参加用URLなどNLPコロキウムに関するお知らせを受け取りたい方は[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdoLi9-yUvNfQAP_a71HRIBhLsXjwOPhEV-QdJXRvKPyiU5dQ/viewform?usp=sf_link)からメーリングリストへのご登録をお願いします。
+<p class="mb-0"><b><font color='red'>メーリングリストへの登録:</font></b> 参加用URLなどNLPコロキウムに関するお知らせを受け取りたい方はメーリングリストへのご登録をお願いします。</p>
+
+<p class="text-center mt-0">
+<a class="btn btn-outline-danger" href="https://docs.google.com/forms/d/e/1FAIpQLSdoLi9-yUvNfQAP_a71HRIBhLsXjwOPhEV-QdJXRvKPyiU5dQ/viewform?usp=sf_link" role="button" target="_blank">メーリングリスト登録フォーム</a>
+</p>
 
 **アンチハラスメントポリシー**: 参加にあたっては[アンチハラスメントポリシー](/anti-harassment_policy/)の遵守をお願いします。
 
@@ -45,9 +50,10 @@ NLP/CLに興味を持っている周辺分野の学生の方や研究を自社�
 
 ## (1) 15-20分のトーク＋QA・ディスカッション
 
-ACLやEMNLP、あるいはNeurIPSやICLRなどこれらに準ずる国際会議・論文誌を主戦場としている方を中心にお招きし、主に半年から1年前に公開された最新の研究に関して短めの講演していただきます。講演は基本的に日本語の予定です。また、許可をいただけた講演に関してはYouTubeにて[アーカイブ配信](https://www.youtube.com/channel/UCHMmZqchxs-kiBEEyoIUkNw)を行っています。
+ACLやEMNLP、あるいはNeurIPSやICLRなどこれらに準ずる国際会議・論文誌を主戦場としている方を中心にお招きし、主に半年から1年前に公開された最新の研究に関して短めの講演していただきます。講演は基本的に日本語の予定です。また、許可をいただけた講演に関してはYouTubeにて[アーカイブ配信 <i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCHMmZqchxs-kiBEEyoIUkNw)を行っています。
 
-講演者に関して推薦があれば[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdlX-f9ybTi6DeXmd1HILInb1wovKeBxKSxZct8cqppCwBvfw/viewform?usp=sf_link)からお知らせください。
+講演者の推薦常時受付中です → 
+<a class="btn btn-outline-danger btn-sm" href="https://docs.google.com/forms/d/e/1FAIpQLSdlX-f9ybTi6DeXmd1HILInb1wovKeBxKSxZct8cqppCwBvfw/viewform?usp=sf_link" role="button" target="_blank">推薦フォーム</a>
 
 ## (2) スピーカーとの個別ミーティング
 

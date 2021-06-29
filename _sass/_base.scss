@@ -42,6 +42,16 @@ a, table.table a {
     }
 }
 
+a.btn-outline-danger {
+    color: var(--global-theme-color) !important;
+    border-color: var(--global-theme-color) !important;
+}
+
+a.btn-outline-danger:hover {
+    color: var(--global-theme-color) !important;
+    border-color: var(--global-theme-color) !important;
+}
+
 strong {
     font-weight: 700;
 }
