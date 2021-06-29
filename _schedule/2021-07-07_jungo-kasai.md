@@ -4,9 +4,11 @@ date: 2021-07-07 12:00:00+0900
 inline: true
 name: 笠井淳吾
 affiliation: University of Washington
-bio: "2020年東北大学大学院情報科学研究科修士課程修了．現在，東北大学大学院情報科学研究科にて博士課程取得に向けて研究を進めている．2020年より日本学術振興会特別研究員（DC1）．Langsmith株式会社共同創業者．"
+bio: "Jungo Kasai is a rising fourth-year PhD student at the Paul G. Allen School of Computer Science & Engineering of the University of Washington, Seattle, advised by Noah A. Smith. He works on natural language processing and machine learning. His research interests include machine translation, language generation, multilingual natural language processing, and structured prediction."
 website: https://homes.cs.washington.edu/~jkasai/
-topic: TBA
-abstract: TBA
+topic: "Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation"
+abstract: "Much recent effort has been invested in non-autoregressive neural machine translation, which appears to be an efficient alternative to state-of-the-art autoregressive machine translation on modern GPUs. In contrast to the latter, where generation is sequential, the former allows generation to be parallelized across target token positions. Some of the latest non-autoregressive models have achieved impressive translation quality-speed tradeoffs compared to autoregressive baselines. In this work, we reexamine this tradeoff and argue that autoregressive baselines can be substantially sped up without loss in accuracy. Specifically, we study autoregressive models with encoders and decoders of varied depths. Our extensive experiments show that given a sufficiently deep encoder, a single-layer autoregressive decoder can substantially outperform strong non-autoregressive models with comparable inference speed. We show that the speed disadvantage for autoregressive baselines compared to non-autoregressive methods has been overestimated in three aspects: suboptimal layer allocation, insufficient speed measurement, and lack of knowledge distillation. Our results establish a new protocol for future research toward fast, accurate machine translation."
 display: true
 ---
+
+[[論文]](https://arxiv.org/abs/2006.10369) (ICLR 2021)
