@@ -11,4 +11,4 @@ abstract: "言語普遍的な人の言語処理の計算モデルの解明に向
 display: true
 ---
 
-[[論文]](https://arxiv.org/abs/2106.01229) (ACL 2021)
+[[動画]](https://youtu.be/Xd_KfgWVWsI) [[論文]](https://arxiv.org/abs/2106.01229) (ACL 2021)
