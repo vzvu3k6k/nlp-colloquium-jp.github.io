@@ -11,4 +11,4 @@ abstract: "Much recent effort has been invested in non-autoregressive neural mac
 display: true
 ---
 
-[[スライド]](https://www.slideshare.net/JungoKasai/deep-encoder-shallow-decoder-reevaluating-nonautoregressive-machine-translation) [[論文]](https://arxiv.org/abs/2006.10369) (ICLR 2021)
+[[動画]](https://youtu.be/rxkXohKUthg) [[スライド]](https://www.slideshare.net/JungoKasai/deep-encoder-shallow-decoder-reevaluating-nonautoregressive-machine-translation) [[論文]](https://arxiv.org/abs/2006.10369) (ICLR 2021)
