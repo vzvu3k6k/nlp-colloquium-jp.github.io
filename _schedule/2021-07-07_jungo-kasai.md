@@ -12,3 +12,4 @@ display: true
 ---
 
 [[動画]](https://youtu.be/rxkXohKUthg) [[スライド]](https://www.slideshare.net/JungoKasai/deep-encoder-shallow-decoder-reevaluating-nonautoregressive-machine-translation) [[論文]](https://arxiv.org/abs/2006.10369) (ICLR 2021)
+
