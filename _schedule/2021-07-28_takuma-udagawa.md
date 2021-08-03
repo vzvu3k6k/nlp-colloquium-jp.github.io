@@ -11,4 +11,4 @@ abstract: Common grounding is the process of creating and maintaining mutual und
 display: true
 ---
 
-[[論文]](https://arxiv.org/abs/2105.14207) (TACL 2021)
+[[動画]](https://youtu.be/XjRhvR3_CUk) [[スライド]](https://drive.google.com/file/d/1RP2dNGmPdGcTzZQfS5U3v6BfbYge-dtY/view?usp=sharing) [[論文]](https://arxiv.org/abs/2105.14207) (TACL 2021)
