@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-09-08 12:00:00+0900
+date: 2021-09-08 12:30:00+0900
 inline: true
 name: 尾上康雅
 affiliation: The University of Texas at Austin
