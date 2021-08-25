@@ -10,7 +10,14 @@
         {% for item in site.schedule %}
           {% if item.display %}
             <tr>
-              <th scope="row">{{ item.date | date: "%Y/%m/%d (%a) %H:%M (%Z)" }}</th>
+              <th scope="row">
+                {% if item.date_em %}<b class="date-em">{% endif %}
+                {{ item.date | date: "%Y/%m/%d (%a)" }}
+                {% if item.date_em %}</b>{% endif %}
+                {% if item.time_em %}<b class="time-em">{% endif %}
+                {{ item.date | date: "%H:%M (%Z)" }}
+                {% if item.time_em %}</b>{% endif %}
+              </th>
               <td>
                 {% if item.inline %}
                   {% if item.website %}<a href="{{ item.website }}" target="_blank">{% endif %}
