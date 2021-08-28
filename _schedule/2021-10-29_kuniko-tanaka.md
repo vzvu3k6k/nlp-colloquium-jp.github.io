@@ -1,0 +1,12 @@
+---
+layout: post
+date: 2021-10-29 12:00:00+0900
+inline: true
+name: 田中久美子
+affiliation: 東京大学
+bio: TBA
+website: https://www.cl.rcast.u-tokyo.ac.jp/Top.ja.html
+topic: TBA
+abstract: TBA
+display: true
+---
