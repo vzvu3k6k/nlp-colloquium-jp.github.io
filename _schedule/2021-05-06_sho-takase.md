@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2021-05-06 12:00:00+0900
+date_em: true
 inline: true
 name: 高瀬翔
 affiliation: 東京工業大学
