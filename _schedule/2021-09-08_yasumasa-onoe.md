@@ -12,4 +12,4 @@ abstract: Neural entity typing models typically represent entity types as vector
 display: true
 ---
 
-[[論文]](https://arxiv.org/abs/2101.00345) (ACL2021)
+[[スライド]](https://speakerdeck.com/yasumasaonoe/modeling-fine-grained-entity-types-with-box-embeddings) [[論文]](https://arxiv.org/abs/2101.00345) (ACL2021)
