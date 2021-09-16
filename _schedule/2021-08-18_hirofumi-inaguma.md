@@ -11,4 +11,4 @@ abstract: ソース言語の音声からターゲット言語の翻訳文を直�
 display: true
 ---
 
-[[論文1]](https://arxiv.org/abs/2010.13047) (ICASSP 2021) [[論文2]](https://arxiv.org/abs/2104.06457) (NAACL 2021)
+[[動画]](https://youtu.be/-arCFOYd8vQ) [[スライド]](https://drive.google.com/file/d/1Z-AEKw4Q41J20_H1QlTu2WY7DsiXFBYV/view?usp=sharing) [[論文1]](https://arxiv.org/abs/2010.13047) (ICASSP 2021) [[論文2]](https://arxiv.org/abs/2104.06457) (NAACL 2021)
