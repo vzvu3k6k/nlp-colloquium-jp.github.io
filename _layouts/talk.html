@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+{% if page._styles %}
+<style type="text/css">
+  {{ page._styles }}
+</style>
+{% endif %}
+<div class="talk">
+  <header class="talk-header">
+    <h1 class="talk-title">{{ page.topic }}</h1>
+    <p class="talk-meta">
+      {% if page.date_em %}<b class="date-em">{% endif %}
+        {{ page.date | date: "%Y/%m/%d (%a)" }}
+        {% if page.date_em %}</b>{% endif %}
+      {% if page.time_em %}<b class="time-em">{% endif %}
+        {{ page.date | date: "%H:%M (%Z)" }}
+        {% if page.time_em %}</b>{% endif %}
+    </p>
+  </header>
+
+  <article class="talk-body">
+    <div class="talk-speaker">
+      <h2 class="speaker-name">{{ page.name }} ({{ page.affiliation }})</h2>
+      {% if page.website %}
+        <a href="{{ page.website }}" target="_blank">[Webサイト]</a>
+      {% endif %}
+      <p class="speaker-bio">{{ page.bio }}</p>
+    </div>
+    <div class="talk-content">
+      <h2>概要</h2>
+      <p class="talk-abstract">{{ page.abstract }}</p>
+      <p class="talk-misc">{{ content }}</p>
+    </div>
+  </article>
+<a href="/">[トップページへ戻る]</a>
+</div>

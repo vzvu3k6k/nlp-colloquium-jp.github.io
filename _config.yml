@@ -78,9 +78,15 @@ disqus_shortname: al-folio # put your disqus shortname
 # Collections
 # -----------------------------------------------------------------------------
 
+future: true  # generate the pages of future-dated articles
+
 collections:
   schedule:
+    defaults:
+      layout: talk
+      inline: false
     output: true
+    permalink: /schedule/:path/
   news:
     defaults:
       layout: post

@@ -1,13 +1,14 @@
 # 講演者リストについて
 
 - `_schedule`: ここにデータを置く
-- `_includes/schedule.html`: HTML
+- `_includes/schedule.html`: 一覧表HTML
+- `_layouts/talk.html`: 個別ページHTML
 - `_sass/_layout.scss`: CSS
 
 # マークダウンファイルのフィールド
 
-- `layout: post`: デフォルト
-- `inline: true`: デフォルト (`false` にすると個別ベージを作ることができるが未対応)
+- `layout: talk [defult]`: `_layouts/talk.html` を使ってページを生成するという意味。特別な理由がない限り変更しないこと。
+- `inline: false [default]`: `true` かつ `abstract` にテキストが入っているとき、一覧表の中で概要を表示する。それ以外の場合は個別ベージを生成する。
 - `date`: 日時 (JST=`+0900`) (例: `2021-09-08 12:30:00+0900`)
 - `date_em`: 日付を強調表示するとき `true`
 - `time_em`: 時間を強調表示するとき `true`
