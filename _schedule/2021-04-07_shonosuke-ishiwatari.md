@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: talk
 date: 2021-04-07 12:00:00+0900
-inline: true
+inline: false
 name: 石渡祥之佑
 affiliation: Mantra株式会社
 bio: 東京大学情報理工学系研究科修了。博士(情報理工学)。日本学術振興会特別研究員（DC2）、東京大学生産技術研究所特任研究員等を経て、2020年 Mantra株式会社を創業。「世界の言葉で、マンガを届ける。」を合言葉に、マンガ機械翻訳技術の研究開発に従事。

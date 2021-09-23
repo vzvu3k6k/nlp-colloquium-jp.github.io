@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: talk
 date: 2021-03-10 12:00:00+0900
-inline: true
+inline: false
 name: 大谷直樹
 affiliation: Carnegie Mellon University
 bio: Naoki Otani is a second-year Ph.D. student in the Language Technologies Institute at Carnegie Mellon University. He is working on semantic representations of sentences and words with Prof. Eduard Hovy and Prof. Lori Levin. His research interests include common-sense knowledge acquisition and reasoning and cross-lingual word representations. He received his M.S. and B.S. from Kyoto University.

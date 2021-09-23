@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: talk
 date: 2021-07-07 12:00:00+0900
-inline: true
+inline: false
 name: 笠井淳吾
 affiliation: University of Washington
 bio: "Jungo Kasai is a rising fourth-year PhD student at the Paul G. Allen School of Computer Science & Engineering of the University of Washington, Seattle, advised by Noah A. Smith. He works on natural language processing and machine learning. His research interests include machine translation, language generation, multilingual natural language processing, and structured prediction."

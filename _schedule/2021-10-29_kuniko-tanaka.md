@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: talk
 date: 2021-10-29 12:00:00+0900
 date_em: true
-inline: true
+inline: false
 name: 田中久美子
 affiliation: 東京大学
 bio: TBA
