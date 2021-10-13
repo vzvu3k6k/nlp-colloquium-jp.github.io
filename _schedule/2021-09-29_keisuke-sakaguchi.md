@@ -13,4 +13,4 @@ abstract: "Scripts – prototypical event sequences describing everyday activiti
 display: true
 ---
 
-[[動画]](https://youtu.be/BNDVf5gNt1w) [[スライド]](https://www.slideshare.net/keisks/emnlp-2021-proscript) [[論文]](https://arxiv.org/abs/2104.08251) (Findings of EMNLP 2021)
+[[動画]](https://youtu.be/BNDVf5gNt1w) [[スライド]](https://www.slideshare.net/keisks/emnlp-2021-proscript-250438012) [[論文]](https://arxiv.org/abs/2104.08251) (Findings of EMNLP 2021)
