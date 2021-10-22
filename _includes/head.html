@@ -6,9 +6,9 @@
   {{ site.title }}
   {% if page.collection == 'schedule' %}
     | {{ page.topic }} ({{ page.name }})
-  {% elsif page.title and page.url != "/" %}
+  {%- elsif page.title and page.url != "/" -%}
     | {{ page.title }}
-  {% endif %}
+  {%- endif -%}
 </title>
 <meta name="description" content="{{ site.description }}">
 
@@ -19,7 +19,7 @@
 <meta name="twitter:image" content="{{ site.url }}/assets/img/ogp_logo_614x614.png" />
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:type" content="object" />
-<meta property="og:title" content="{{ site.title }}{% if page.collection == 'schedule' %} | {{ page.topic }} ({{ page.name }}){% elseif page.title and page.url != '/' %} | {{ page.title }}{% endif %}" />
+<meta property="og:title" content="{{ site.title }}{% if page.collection == 'schedule' %} | {{ page.topic }} ({{ page.name }}){%- elsif page.title and page.url != '/' -%} | {{ page.title }}{%- endif -%}" />
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
 <meta property="og:description" content="{{ site.description }}" />
 <meta property="og:image" content="{%- if page.og_image -%}{{ page.og_image }}{%- else -%}{{ site.og_image }}{%- endif -%}" />
