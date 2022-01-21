@@ -31,6 +31,7 @@ layout: default
     <div class="talk-content">
       <h2>概要</h2>
       <p class="talk-abstract">{{ page.abstract }}</p>
+      <p>※トークは{% if page.language %}{{ page.language }}{% else %}日本語{% endif %}です。</p>  
       <p class="talk-misc">{{ content }}</p>
     </div>
   </article>
