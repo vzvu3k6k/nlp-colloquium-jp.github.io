@@ -11,4 +11,4 @@ abstract: Machine reading comprehension (MRC) has received considerable attentio
 display: true
 ---
 
-[[論文]](https://aclanthology.org/2021.eacl-main.137/)
+[[論文]](https://aclanthology.org/2021.eacl-main.137/) (EACL2021) 
