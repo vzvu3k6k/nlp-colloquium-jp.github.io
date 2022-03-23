@@ -10,4 +10,4 @@ topic: Ordinal Classification/Quantificationというタスクに適した評価
 abstract: "nクラス分類タスクのうち、クラス間に順序関係があるものがOC (ordinal classification) タスクです。例えば、N個のツイートをhighly negative, negative, neutral, positive, highly positiveに振り分けて各ツイートが正しく分類されているか混同行列を見て評価する場合です。一方、OQ (ordinal quantification) は、N個のツイートをやはり上記のようなクラスに分類しますが、個々のツイートがどのクラスに分類されているかは問題にせず、クラス上の分布のみを問題にします。例えば、あるトピックに関するツイートの何%がpositiveであるかなどを推定する場合です。OCとOQにはクラスの順序関係を考慮した評価指標が必要ですが、今回はこれにまつわるテクニカルな内容よりも、研究者としての裏話を中心にお話したいと思います。"
 display: true
 ---
-[[論文]](https://aclanthology.org/2021.acl-long.214/) [[関連スライド1]](https://waseda.box.com/acl2021sakai-videos-and-slides) [[関連スライド2]](https://waseda.box.com/v/cikmlqworkshop2021slides)
+[[論文]](https://aclanthology.org/2021.acl-long.214/) (ACL 2021) [[関連スライド1]](https://waseda.box.com/acl2021sakai-videos-and-slides) [[関連スライド2]](https://waseda.box.com/v/cikmlqworkshop2021slides)
