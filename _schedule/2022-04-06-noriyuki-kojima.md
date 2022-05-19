@@ -12,4 +12,4 @@ display: true
 language: 英語 (QAは日本語)
 ---
 
-[[論文]](https://arxiv.org/abs/2108.04812) (TACL 2021)
+[[動画]](https://youtu.be/O8IMBad8dCM) [[スライド]](https://drive.google.com/file/d/1iM9sfhC7LSFCjo9aFM5SeSV0PkQgUE1Z/view?usp=sharing)  [[論文]](https://arxiv.org/abs/2108.04812) (TACL 2021)
