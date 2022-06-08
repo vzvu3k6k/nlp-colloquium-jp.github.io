@@ -11,4 +11,4 @@ abstract: 単語埋め込みは現代の自然言語処理の中核技術のひ�
 display: true
 ---
 
-[[論文]](https://arxiv.org/abs/2205.01954) (NAACL 2022)
+[[スライド]](https://www.slideshare.net/joisino/word-tour-onedimensional-word-embeddings-via-the-traveling-salesman-problem-naacl-2022) [[論文]](https://arxiv.org/abs/2205.01954) (NAACL 2022)
