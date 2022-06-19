@@ -10,5 +10,4 @@ topic: "Summarize-then-Answer: Generating Concise Explanations for Multi-hop Rea
 abstract: 本トークでは、説明可能な機械読解モデルについて論じる。周辺分野の研究動向に触れたあと、モデルの意志をより反映し (faithful)、かつ人間にとってわかりやすい (plausible) 説明を生成するための一手法として、少量の教師データと教師なしの報酬関数を用いて説明生成器を訓練する手法を紹介し (詳細は下記論文リンクを参照) 、今後の研究の方向性についてお話する。また、研究ノウハウの共有のために、この成果を論文にまとめるまでの苦労や講演者の対処法も併せて紹介したい。
 display: true
 ---
- [[スライド]](https://drive.google.com/file/d/1dRMP_7Ry3At4YEi1llHjBsx-zhJNweTs/view) [[論文]](https://aclanthology.org/2021.emnlp-main.490/) (EMNLP 2021) 
-
+[[動画]](https://youtu.be/acx9PBIPfZY) [[スライド]](https://drive.google.com/file/d/1dRMP_7Ry3At4YEi1llHjBsx-zhJNweTs/view) [[論文]](https://aclanthology.org/2021.emnlp-main.490/) (EMNLP 2021)
