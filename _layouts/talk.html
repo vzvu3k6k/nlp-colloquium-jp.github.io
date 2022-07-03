@@ -11,12 +11,20 @@ layout: default
   <header class="talk-header">
     <h1 class="talk-title">{{ page.topic }}</h1>
     <p class="talk-meta">
-      {% if page.date_em %}<b class="date-em">{% endif %}
-        {{ page.date | date: "%Y/%m/%d (%a)" }}
+      {% if page.date_tba %}
+        日時未定
+      {% else %}
+        {% if page.date_em %}<b class="date-em">{% endif %}
+          {{ page.date | date: "%Y/%m/%d (%a)" }}
         {% if page.date_em %}</b>{% endif %}
-      {% if page.time_em %}<b class="time-em">{% endif %}
-        {{ page.date | date: "%H:%M (%Z)" }}
-        {% if page.time_em %}</b>{% endif %}
+        {% if page.time_tba %}
+          (開始時間未定)
+        {% else %}
+          {% if page.time_em %}<b class="time-em">{% endif %}
+            {{ page.date | date: "%H:%M (%Z)" }}
+            {% if page.time_em %}</b>{% endif %}
+        {% endif %}
+      {% endif %}
     </p>
   </header>
 

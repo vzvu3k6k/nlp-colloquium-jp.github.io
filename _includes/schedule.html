@@ -11,12 +11,20 @@
           {% if item.display %}
             <tr>
               <th scope="row">
-                {% if item.date_em %}<b class="date-em">{% endif %}
-                {{ item.date | date: "%Y/%m/%d (%a)" }}
-                {% if item.date_em %}</b>{% endif %}
-                {% if item.time_em %}<b class="time-em">{% endif %}
-                {{ item.date | date: "%H:%M (%Z)" }}
-                {% if item.time_em %}</b>{% endif %}
+                {% if item.date_tba %}
+                  日時未定
+                {% else %}
+                  {% if item.date_em %}<b class="date-em">{% endif %}
+                  {{ item.date | date: "%Y/%m/%d (%a)" }}
+                  {% if item.date_em %}</b>{% endif %}
+                  {% if item.time_tba %}
+                    [開始時間未定]
+                  {% else %}
+                    {% if item.time_em %}<b class="time-em">{% endif %}
+                    {{ item.date | date: "%H:%M (%Z)" }}
+                    {% if item.time_em %}</b>{% endif %}
+                  {% endif %}
+                {% endif %}
               </th>
               <td>
                 {% if item.website %}<a href="{{ item.website }}" target="_blank">{% endif %}

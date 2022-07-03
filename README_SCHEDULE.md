@@ -12,6 +12,8 @@
 - `date`: 日時 (JST=`+0900`) (例: `2021-09-08 12:30:00+0900`)
 - `date_em`: 日付を強調表示するとき `true`
 - `time_em`: 時間を強調表示するとき `true`
+- `date_tba`: 日時が未定 (TBA) のとき `true` (`date_tba==true` のとき、時間も非表示になる)
+- `time_tba`: 時間が未定 (TBA) のとき `true`
 - `name`: 講演者の名前
 - `affiliation`: 所属
 - `bio`: スピーカー紹介 (現在非表示)
