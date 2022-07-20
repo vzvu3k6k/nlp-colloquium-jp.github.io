@@ -3,7 +3,7 @@ layout: talk
 date: 2022-07-27 12:00:00+0900
 inline: false
 name: 藤沼祥成
-affiliation: "AWS AI [*Work done while at Univ. of Colorado Boulder]"
+affiliation: "AWS AI [*Work done at Univ. of Colorado Boulder]"
 bio: Yoshinari Fujinuma obtained his PhD at University of Colorado Boulder, where he was advised by Jordan Boyd-Graber, Katharina Kann, and Michael J. Paul. His PhD research includes analysis and improvement on cross-lingual models.
 website: https://akkikiki.github.io/
 topic: "Match the Script, Adapt if Multilingual: Analyzing the Effect of Multilingual Pretraining on Cross-lingual Transferability*"
@@ -11,4 +11,4 @@ abstract: "Pretrained multilingual models enable zero-shot learning even for uns
 display: true
 ---
 
-[[スライド]](https://akkikiki.github.io/assets/pdf/acl2022_slides.pdf) [[論文]](https://aclanthology.org/2022.acl-long.106.pdf) (ACL 2022)
+[[スライド]](https://akkikiki.github.io/assets/pdf/acl2022_slides.pdf) [[論文]](https://aclanthology.org/2022.acl-long.106/) (ACL 2022)
