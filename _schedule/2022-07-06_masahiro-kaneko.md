@@ -11,4 +11,4 @@ abstract: 言語学習のための文法誤り訂正では、訂正性能だけ�
 display: true
 ---
 
-[[スライド]](https://drive.google.com/file/d/19204w62pwZQAwFm9MObvPTV406cVviSo/view?usp=sharing) [[論文]](https://arxiv.org/abs/2203.07085) (ACL 2022)
+[[スライド]](https://speakerdeck.com/kanekomasahiro/interpretability-for-language-learners-using-example-based-grammatical-error-correction-at-nlp-korokiumu) [[論文]](https://arxiv.org/abs/2203.07085) (ACL 2022)
