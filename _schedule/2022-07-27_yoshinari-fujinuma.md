@@ -11,4 +11,4 @@ abstract: "Pretrained multilingual models enable zero-shot learning even for uns
 display: true
 ---
 
-[[スライド]](https://akkikiki.github.io/assets/pdf/acl2022_slides.pdf) [[論文]](https://aclanthology.org/2022.acl-long.106/) (ACL 2022)
+[[動画]](https://youtu.be/BjRMbqE6oPA) [[スライド]](https://akkikiki.github.io/assets/pdf/acl2022_slides.pdf) [[論文]](https://aclanthology.org/2022.acl-long.106/) (ACL 2022)
