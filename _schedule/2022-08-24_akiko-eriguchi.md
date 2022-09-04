@@ -13,4 +13,4 @@ abstract: "機械翻訳の研究分野では、(十分なパラメータ数の�
 display: true
 ---
 
-[[論文]](https://aclanthology.org/2022.naacl-main.44/)
+[[論文]](https://aclanthology.org/2022.naacl-main.44/) (NAACL 2022)
