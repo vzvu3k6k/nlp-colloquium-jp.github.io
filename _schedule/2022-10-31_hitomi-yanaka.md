@@ -12,4 +12,4 @@ abstract: 語彙と文の構造に基づいて新しい文を構成的に理解�
 display: true
 ---
 
-[[論文]](https://arxiv.org/abs/2208.04826) (TACL 2022)
+ [[スライド]](https://speakerdeck.com/verypluming/compositional-evaluation-on-japanese-textual-entailment-and-similarity-jsick-gou-cheng-de-tui-lun-lei-si-du-detasetutosickri-ben-yu-ban-noshao-jie) [[論文]](https://arxiv.org/abs/2208.04826) (TACL 2022) 
