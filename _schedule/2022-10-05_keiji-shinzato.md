@@ -12,4 +12,4 @@ abstract: "A key challenge in attribute value extraction (AVE) from e-commerce s
 display: true
 ---
 
-[[論文]](https://aclanthology.org/2022.acl-short.25/)
+[[スライド]](https://www.slideshare.net/rakutentech/simple-and-effective-knowledgedriven-query-expansion-for-qabased-product-attribute-extraction) [[論文]](https://aclanthology.org/2022.acl-short.25/)
