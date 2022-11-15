@@ -11,4 +11,4 @@ abstract: 我々NLPerはNLPの問題を解きたいのですが、それで必�
 display: true
 ---
 
- [[web]](https://blog.google/products/search/reintroduction-googles-featured-snippets/)
+ [[プロジェクト]](https://blog.google/products/search/reintroduction-googles-featured-snippets/)
