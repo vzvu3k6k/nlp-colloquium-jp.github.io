@@ -1,13 +1,13 @@
 ---
 layout: talk
-date: 2022-12-14 12:00:00+0900
+date: 2023-01-25 12:00:00+0900
 inline: false
-name: 平岡達也
-affiliation: 富士通株式会社
+time_tba: true
+name: Machel Reid
+affiliation: Google Research
 bio: TBD
-website: https://tathi.github.io/
+website: https://machelreid.github.io/
 topic: TBD
 abstract: TBD
 display: true
 ---
-
