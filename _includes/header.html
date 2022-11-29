@@ -4,9 +4,9 @@
     
     <div class="container">
       <a class="navbar-brand title font-weight-lighter mr-auto" href="{{ site.baseurl | prepend: site.url }}/"><img src="{{ '/assets/img/logo-260x50.png' | relative_url }}" title="{{ site.title }}" width="260px" height="50px" /></a>
-      {% if site.show_social_icons %}
+      {%- if site.enable_navbar_social -%}
         <!-- Social Icons -->
-        <div id="socialIcons">
+        <div id="socialIcons" class="navbar-brand social">
           {% include social.html %}
         </div>
       {% endif %}
