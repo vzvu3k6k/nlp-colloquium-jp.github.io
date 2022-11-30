@@ -61,7 +61,7 @@ max_width: 800px
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: /assets/img/ogp_logo_1200x630.v1.png # The site-wide (default for all links) Open Graph preview image
-og_image_twitter: /assets/img/ogp_logo_614x614.png # The site-wide (default for all links) Open Graph preview image (for Twitter)
+og_image_twitter: https://nlp-colloquium-jp.github.io/assets/img/ogp_logo_614x614.png # The site-wide (default for all links) Open Graph preview image (for Twitter)
 
 # -----------------------------------------------------------------------------
 # Social integration
