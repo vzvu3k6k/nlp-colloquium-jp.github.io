@@ -39,14 +39,11 @@
 
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="{{ site.title }}{% if page.collection == 'schedule' %} | {{ page.topic }} ({{ page.name }}){%- elsif page.title and page.url != '/' -%} | {{ page.title }}{%- endif -%}" />
-    <meta name="twitter:description" content="{{ site.description }}" />
     {% if page.og_image or site.og_image -%}
     <meta name="twitter:image" content="{%- if page.og_image_twitter -%}{{ page.og_image_twitter }}{%- else -%}{{ site.og_image_twitter }}{%- endif -%}" />
     {%- endif %}
     {% if site.twitter_username -%}
     <meta name="twitter:site" content="@{{ site.twitter_username }}" />
-    <meta name="twitter:creator" content="@{{ site.twitter_username }}" />
     {%- endif %}
 {%- endif %}
 
