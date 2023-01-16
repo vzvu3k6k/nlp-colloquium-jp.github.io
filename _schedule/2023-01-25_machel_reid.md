@@ -2,7 +2,6 @@
 layout: talk
 date: 2023-01-25 18:00:00+0900
 inline: false
-time_tba: true
 name: Machel Reid
 affiliation: Google Research
 bio: He is a research scientist in the Brain Team at Google Research working on NLP research, with a focus on multilingual NLP. He also will be a PhD student at the University of Washington co-advised by Luke Zettlemoyer and Noah A. Smith. He was previously a visiting student at Carnegie Mellon University, advised by Graham Neubig and researcher at the University of Tokyo at Matsuo Lab with Yutaka Matsuo.
