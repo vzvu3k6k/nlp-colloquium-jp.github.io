@@ -11,4 +11,4 @@ abstract: 本トークでは、主にCOLING2022で発表したMaxMatch-Dropout�
 display: true
 ---
 
-[[スライド]](https://speakerdeck.com/tathi/zui-chang-zhi-fa-notamenosabuwadozheng-ze-hua-shou-fa-maxmatch-dropout-tosonozhou-bian-nohua) [[論文]](https://aclanthology.org/2022.coling-1.430/) (COLING 2022)
+[[動画]](https://www.youtube.com/watch?v=6GbhzLSj_5s&feature=youtu.be) [[スライド]](https://speakerdeck.com/tathi/zui-chang-zhi-fa-notamenosabuwadozheng-ze-hua-shou-fa-maxmatch-dropout-tosonozhou-bian-nohua) [[論文]](https://aclanthology.org/2022.coling-1.430/) (COLING 2022)
