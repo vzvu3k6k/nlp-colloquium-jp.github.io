@@ -11,4 +11,4 @@ abstract: In this talk, I will present DiffusER, a new text generation model tha
 display: true
 language: 英語 (QAは日本語)
 ---
-[[スライド]](https://machelreid.github.io/resources/Talk%20at%20Colloqium.pdf) [[論文]](https://arxiv.org/abs/2210.16886)
+[[スライド]](https://machelreid.github.io/resources/Talk%20at%20Colloqium.pdf) [[論文]](https://openreview.net/forum?id=nG9RF9z1yy3)  (ICLR 2023)
