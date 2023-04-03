@@ -16,7 +16,7 @@
     {%- if site.title == "blank" -%}
     {%- capture title -%}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{%- endcapture -%}
     {%- else -%}
-        {{ site.title }}{% if page.collection == 'schedule' %} | {{ page.topic }} ({{ page.name }}){%- endif -%}
+        {{ site.title }}{% if page.collection == 'schedule' %} | {{ page.topic }} ({{ page.name | strip_html | remove: '1' | remove: '2' }}){%- endif -%}
     {%- endif -%}
     </title>
     <meta name="description" content="{%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}" />
@@ -28,7 +28,7 @@
     <!-- OpenGraph -->
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ site.title }}{% if page.collection == 'schedule' %} | {{ page.topic }} ({{ page.name }}){%- elsif page.title and page.url != '/' -%} | {{ page.title }}{%- endif -%}" />
+    <meta property="og:title" content="{{ site.title }}{% if page.collection == 'schedule' %} | {{ page.topic }} ({{ page.name | strip_html | remove: '1' | remove: '2' }}){%- elsif page.title and page.url != '/' -%} | {{ page.title }}{%- endif -%}" />
     <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url | remove_first: 'index.html' }}" />
     <meta property="og:description" content="{{ site.description }}" />
     {% if page.og_image or site.og_image -%}
@@ -135,7 +135,7 @@
         "description": "{%- if page.description -%}{{ page.description }}{%- else if site.description -%}{{ site.description }}{%- endif -%}",
         "headline": "{%- if page.title -%}{{ page.title }}{%- else -%}{{ site.title }}{%- endif -%}",
         {% if sameaslinks != blank -%}
-        "sameAs": {{ sameaslinks }}, 
+        "sameAs": {{ sameaslinks }},
         {%- endif %}
         "name": "{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}",
         "@context": "https://schema.org"
