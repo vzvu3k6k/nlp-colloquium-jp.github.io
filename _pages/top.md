@@ -2,10 +2,11 @@
 layout: top
 title: トップページ
 permalink: /
-description: 
+description:
 news: false  # includes a list of news items
 schedule: true  # includes a list of talks
 organizers: true # includes a list of organizers
+sponsors: true # includes a list of sponsors
 social: false  # includes social icons at the bottom of the page
 ---
 
@@ -52,7 +53,7 @@ NLP/CLに興味を持っている周辺分野の学生の方や研究を自社�
 
 ACLやEMNLP、あるいはNeurIPSやICLRなどこれらに準ずる国際会議・論文誌を主戦場としている方を中心にお招きし、主に半年から1年前に公開された最新の研究に関して短めの講演していただきます。講演は基本的に日本語の予定です。また、許可をいただけた講演に関してはYouTubeにて[アーカイブ配信 <i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCHMmZqchxs-kiBEEyoIUkNw)を行っています。
 
-講演者の推薦常時受付中です → 
+講演者の推薦常時受付中です →
 <a class="btn btn-outline-danger btn-sm" href="https://docs.google.com/forms/d/e/1FAIpQLSdlX-f9ybTi6DeXmd1HILInb1wovKeBxKSxZct8cqppCwBvfw/viewform?usp=sf_link" role="button" target="_blank">推薦フォーム</a>
 
 ## (2) スピーカーとの個別ミーティング

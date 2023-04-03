@@ -1,0 +1,17 @@
+<h2>スポンサー</h2>
+<div class="row sponsors">
+  {% for sponsor in site.data.sponsors.Sponsors %}
+    <div class="col sponsor-col">
+      {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
+        <img src="{{ sponsor.image | prepend: '/assets/img/sponsors/' | relative_url }}" width="{{ sponsor.width }}" height="{{ sponsor.height }}" alt="{{ sponsor.name }} ロゴ" />
+      {% if sponsor.url %}</a>{% endif %}
+      <div class="sponsor-info">
+        <p>
+          {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
+          {{ sponsor.name }}
+          {% if sponsor.url %}</a>{% endif %}
+        </p>
+      </div>
+    </div>
+  {% endfor %}
+</div>

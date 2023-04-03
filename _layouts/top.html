@@ -41,6 +41,10 @@ layout: default
       {% include organizers.html %}
     {% endif %}
 
+    {% if page.sponsors %}
+      {% include sponsors.html %}
+    {% endif %}
+
     {% if page.social %}
     <div class="social">
       {% include social.html %}
