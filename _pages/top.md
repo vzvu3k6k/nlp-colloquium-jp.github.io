@@ -5,8 +5,8 @@ permalink: /
 description:
 news: false  # includes a list of news items
 schedule: true  # includes a list of talks
-organizers: true # includes a list of organizers
 sponsors: true # includes a list of sponsors
+organizers: true # includes a list of organizers
 social: false  # includes social icons at the bottom of the page
 ---
 
