@@ -11,4 +11,4 @@ abstract: 辞書のような語彙資源を用いて文中の単語（文脈語�
 display: true
 ---
 
-[[論文]](https://arxiv.org/abs/2304.11340) (EACL 2023)
+[[論文]](https://aclanthology.org/2023.eacl-main.251/) (EACL 2023)
