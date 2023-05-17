@@ -10,4 +10,4 @@ abstract: "日常における人の行動変容は学習や健康などwell-bein
 display: true
 ---
 
-[[スライド]](https://speakerdeck.com/hiromu1996/nlp-for-hci-ren-noxing-dong-bian-geng-wocu-sutamenonlpbesunopuronputonodao-ru), [[論文1]](https://arxiv.org/abs/2302.05678) (CHI 2023), [[論文2]](https://dl.acm.org/doi/10.1145/3491102.3501839) (CHI 2022)
+[[スライド]](https://speakerdeck.com/hiromu1996/nlp-for-hci-ren-noxing-dong-bian-geng-wocu-sutamenonlpbesunopuronputonodao-ru) [[論文1]](https://arxiv.org/abs/2302.05678) (CHI 2023) [[論文2]](https://dl.acm.org/doi/10.1145/3491102.3501839) (CHI 2022)
