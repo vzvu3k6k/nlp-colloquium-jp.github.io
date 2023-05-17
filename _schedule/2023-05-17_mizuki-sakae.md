@@ -11,4 +11,4 @@ abstract: 辞書のような語彙資源を用いて文中の単語（文脈語�
 display: true
 ---
 
-[[論文]](https://aclanthology.org/2023.eacl-main.251/) (EACL 2023)
+ [[スライド]](https://speakerdeck.com/s_mizuki_nlp/mai-meip-mibiao-xian-noyi-wei-shi-ying-niyoruzhi-shi-besuyu-yi-ai-mei-xing-jie-xiao) [[論文]](https://aclanthology.org/2023.eacl-main.251/) (EACL 2023)
