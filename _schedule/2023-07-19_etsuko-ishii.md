@@ -8,7 +8,7 @@ bio: 香港科技大学PhD課程4年。2019年東京大学工学部計数工学�
 website: https://etsukokuste.github.io/
 topic: Hallucination in Natural Language Generation
 abstract: With the emergence of powerful models such as ChatGPT, generative models for NLP tasks have drawn more and more attention. While successful, these models show undesired behavior called hallucination - generating a piece of text that contains nonsensical or unfaithful to the provided source content. In this talk, based on the review paper our lab published, I will provide a brief overview of hallucination in NLG tasks, and then dig into the related works in dialogue systems.
-display: true
+display: false
 ---
 [[論文]](https://arxiv.org/abs/2202.03629) (ACM Computing Surveys 2022)
 
