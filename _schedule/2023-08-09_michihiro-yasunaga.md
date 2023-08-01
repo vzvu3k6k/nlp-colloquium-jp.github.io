@@ -3,7 +3,7 @@ layout: talk
 date: 2023-08-09 12:00:00+0900
 inline: false
 name: 安永迪弘
-affiliation: TBA
+affiliation: Stanford University
 bio: TBA
 website: TBA
 topic: TBA
