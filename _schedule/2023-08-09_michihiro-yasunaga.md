@@ -11,3 +11,4 @@ abstract: eaching machines to reason over texts has been a long-standing goal of
 display: true
 ---
 
+[[チュートリアル]](https://wenting-zhao.github.io/complex-reasoning-tutorial/)
