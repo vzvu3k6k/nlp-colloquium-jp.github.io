@@ -12,5 +12,5 @@ abstract: "<sup>1</sup>お互いに翻訳になっている異なる言語の文
 <br><sup>2</sup>Monolingual word alignment, which identifies semantically corresponding words in a sentence pair, has been actively studied as a crucial technique for modelling semantic relationships between sentences, such as for paraphrase identification and textual entailment recognition. Remarkably, the alignment information has been recently recognized as valuable cues for interpreting model predictions with application to quality estimation and hallucination detection. Despite years of dedicated research, challenges still persist in many-to-many and null alignment, which constitutes an *unbalanced* word alignment problem. In this talk, we show that the optimal transport (OT) based methods are natural and sufficiently powerful approaches to unbalanced word alignment without tailor-made techniques. We provide a comprehensive analysis that unveils the characteristics of different OT problems on unbalanced word alignment across diverse null alignment ratios."
 display: true
 ---
-[[論文1]](https://aclanthology.org/2023.acl-long.621/)
+[[スライド1]](https://www.kecl.ntt.co.jp/icl/lirg/members/nagata/talk/230913nlp-colloquium_nagata.pdf) [[論文1]](https://aclanthology.org/2023.acl-long.621/)
 [[論文2]](https://aclanthology.org/2023.acl-long.219/)
