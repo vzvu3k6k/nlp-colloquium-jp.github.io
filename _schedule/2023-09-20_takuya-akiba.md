@@ -11,4 +11,4 @@ abstract: 日本語言語モデル「Japanese StableLM Alpha」を中心に、St
 display: true
 ---
 
-[[関連記事]](https://ja.stability.ai/blog/japanese-stablelm-alpha)
+[[スライド]](https://speakerdeck.com/iwiwi/stability-ai-japanniokeruda-gui-mo-yan-yu-moderunoyan-jiu-kai-fa) [[関連記事]](https://ja.stability.ai/blog/japanese-stablelm-alpha)
