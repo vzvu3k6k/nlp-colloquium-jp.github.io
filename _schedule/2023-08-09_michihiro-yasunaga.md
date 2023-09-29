@@ -11,4 +11,4 @@ abstract: Teaching machines to reason over texts has been a long-standing goal o
 display: true
 ---
 
-[[チュートリアル]](https://wenting-zhao.github.io/complex-reasoning-tutorial/)
+[[スライド]](https://wenting-zhao.github.io/complex-reasoning-tutorial/slides/4.pdf) [[チュートリアル]](https://wenting-zhao.github.io/complex-reasoning-tutorial/)
