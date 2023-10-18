@@ -5,7 +5,7 @@ inline: false
 name: 中村泰
 affiliation: 理化学研究所
 bio: TBD
-website: TBD
+website: 
 topic: TBD
 abstract: TBD
 display: true
