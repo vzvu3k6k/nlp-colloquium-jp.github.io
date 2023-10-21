@@ -13,4 +13,4 @@ abstract: "<sup>1</sup>お互いに翻訳になっている異なる言語の文
 display: true
 ---
 [[スライド1]](https://www.kecl.ntt.co.jp/icl/lirg/members/nagata/talk/230913nlp-colloquium_nagata.pdf) [[論文1]](https://aclanthology.org/2023.acl-long.621/) (ACL 2023)
-[[論文2]](https://aclanthology.org/2023.acl-long.219/) (ACL 2023)
+[[スライド2]](https://speakerdeck.com/yukiar/13-unbalanced-optimal-transport-for-unbalanced-word-alignment) [[論文2]](https://aclanthology.org/2023.acl-long.219/) (ACL 2023)
