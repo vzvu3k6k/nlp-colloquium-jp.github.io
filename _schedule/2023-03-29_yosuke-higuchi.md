@@ -11,5 +11,5 @@ abstract: End-to-End音声認識では、音声からテキストへの直接変
 display: true
 ---
 
-[[スライド]](https://drive.google.com/file/d/1vcRZP0TW3bV73QnhxJpAMOv6eOfm8Cb9/view?usp=share_link) [[論文1]](https://aclanthology.org/2022.findings-emnlp.402) (EMNLP 2022 Findings) [[論文2]](https://arxiv.org/abs/2211.00792) (ICASSP 2023)
+[[動画]](https://youtu.be/nOI7ibU9JXM) [[スライド]](https://drive.google.com/file/d/1vcRZP0TW3bV73QnhxJpAMOv6eOfm8Cb9/view?usp=share_link) [[論文1]](https://aclanthology.org/2022.findings-emnlp.402) (EMNLP 2022 Findings) [[論文2]](https://arxiv.org/abs/2211.00792) (ICASSP 2023)
 
