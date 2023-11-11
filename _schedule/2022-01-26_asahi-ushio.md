@@ -12,4 +12,4 @@ abstract: Language model pretraining plays a significant role in natural languag
 display: true
 ---
 [[動画]](https://youtu.be/ZeOXRgtfu1E) [[スライド1]](https://www.slideshare.net/asahiushio1/202105-acl-bert-is-to-nlp-what-alexnet-is-to-cv-can-pretrained-language-models-identify-analogies) [[論文1]](https://aclanthology.org/2021.acl-long.280/)
- (ACL 2021)  [[スライド2]](https://www.slideshare.net/asahiushio1/202111-emnlp-distilling-relation-embeddings-from-pretrained-language-models) [[論文2]](https://aclanthology.org/2021.emnlp-main.712/) (EMNLP 2021) 
+ (ACL 2021)  [[スライド2]](https://www.slideshare.net/asahiushio1/202111-emnlp-distilling-relation-embeddings-from-pretrained-language-models) [[論文2]](https://aclanthology.org/:wq2021.emnlp-main.712/) (EMNLP 2021)
