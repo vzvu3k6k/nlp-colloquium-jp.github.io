@@ -10,4 +10,4 @@ topic: 対話システム開発における日本語大規模言語モデルと�
 abstract: 私達は大規模言語モデル(LLM)を用いた対話システムの開発に取り組んでいます。今回はLLM自体の開発についてではなく、対話システムチームでのコンペティション参加経験をもとに、LLMを基盤とするマルチモーダル対話システムが抱える課題やそれをどのように克服してきたかを紹介いたします。さらに、SIGdial 2023のデモトラックで発表したアバター対話システムの背景や意図、そして今後の方向性についても触れます。
 display: true
 ---
-[[論文]](https://sigdialinlg2023.github.io/paper_sigdial70.html) (SIGDIAL 2023)
+[[動画]](https://youtu.be/uUvuYnqgY9M) [[論文]](https://sigdialinlg2023.github.io/paper_sigdial70.html) (SIGDIAL 2023)
