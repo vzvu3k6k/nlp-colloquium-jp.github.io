@@ -10,4 +10,4 @@ topic: ロボットの動作学習の研究の進展と言語を利用した制�
 abstract: ロボットが動作を自律的に学習する仕組みとして、ロボット自身が環境内で試行錯誤することによって方策を学習する強化学習が研究されてきました。近年、自然言語を用いたロボットへの指示や大規模言語モデルを用いた動作計画など、従来のロボティクスの枠組みからの拡がりを見せています。ロボットの動作学習の研究についての概観を述べたうえで、今後の展開について議論します。基本的に IJCNLP-AACL 2023 のチュートリアルで発表した Language and Robotics で紹介したものです。
 display: true
 ---
-[[チュートリアル]](http://www.afnlp.org/conferences/ijcnlp2023/wp/program/accepted-tutorials/) (IJCNLP-AACL 2023)
+[[スライド]](https://drive.google.com/file/d/17yizSYl-wZcimaf2zdTPntqwIKuVvt18/view) [[チュートリアル]](http://www.afnlp.org/conferences/ijcnlp2023/wp/program/accepted-tutorials/) (IJCNLP-AACL 2023)
