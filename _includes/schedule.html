@@ -12,7 +12,7 @@
           {% if item.display %}
             <tr>
               <th scope="row">
-                {{ forloop.rindex }}
+                {{ forloop.rindex | prepend: '000' | slice: -3, 3 }}
               </th>
               <th scope="row">
                 {% if item.date_tba %}
