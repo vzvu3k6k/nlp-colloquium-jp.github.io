@@ -10,4 +10,4 @@ topic: ラティス経路編集距離と検索クエリ綴り誤り訂正への�
 abstract: 編集距離は綴り誤りを検出するための方法として広く知られていますが、独自の入力メソッドを持つ日本語に対しては、その有効性は限定的なものとなっていました。本発表では、検索クエリの綴り誤り訂正への応用を念頭に置きながら、日本語の綴り誤り検出に対して高い有効性をもつ、ラティス経路編集距離という新しい編集距離を紹介します。
 display: true
 ---
-[[論文]](https://aclanthology.org/2023.emnlp-industry.24/) (EMNLP 2023)
+[[論文]](https://aclanthology.org/2023.emnlp-industry.24/) (EMNLP 2023 Industry Track)
