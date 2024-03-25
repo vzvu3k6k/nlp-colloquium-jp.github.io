@@ -25,9 +25,16 @@
                     [開始時間未定]
                   {% else %}
                     {% if item.time_em %}<b class="time-em">{% endif %}
-                    {{ item.date | date: "%H:%M (%Z)" }}
+                    {% if item.time_end %}
+                      {{ item.date | date: "%H:%M" }}&ndash;{{ item.time_end | date: "%H:%M (%Z)" }}
+                    {% else %}
+                      {{ item.date | date: "%H:%M" }}
+                    {% endif %}
                     {% if item.time_em %}</b>{% endif %}
                   {% endif %}
+                {% endif %}
+                {% if item.date_comment %}
+                   <br>{{ item.date_comment }}
                 {% endif %}
               </th>
               <td>

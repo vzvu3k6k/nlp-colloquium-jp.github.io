@@ -21,8 +21,15 @@ layout: default
           (開始時間未定)
         {% else %}
           {% if page.time_em %}<b class="time-em">{% endif %}
-            {{ page.date | date: "%H:%M (%Z)" }}
-            {% if page.time_em %}</b>{% endif %}
+          {% if page.time_end %}
+          {{ page.date | date: "%H:%M" }}&ndash;{{ page.time_end | date: "%H:%M (%Z)" }}
+          {% else %}
+          {{ page.date | date: "%H:%M" }}
+          {% endif %}
+          {% if page.time_em %}</b>{% endif %}
+        {% endif %}
+        {% if page.date_comment %}
+          {{ page.date_comment }}
         {% endif %}
       {% endif %}
     </p>
