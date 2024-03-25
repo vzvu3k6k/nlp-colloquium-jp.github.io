@@ -28,7 +28,7 @@
                     {% if item.time_end %}
                       {{ item.date | date: "%H:%M" }}&ndash;{{ item.time_end | date: "%H:%M (%Z)" }}
                     {% else %}
-                      {{ item.date | date: "%H:%M" }}
+                      {{ item.date | date: "%H:%M (%Z)" }}
                     {% endif %}
                     {% if item.time_em %}</b>{% endif %}
                   {% endif %}

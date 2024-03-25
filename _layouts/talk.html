@@ -24,7 +24,7 @@ layout: default
           {% if page.time_end %}
           {{ page.date | date: "%H:%M" }}&ndash;{{ page.time_end | date: "%H:%M (%Z)" }}
           {% else %}
-          {{ page.date | date: "%H:%M" }}
+          {{ page.date | date: "%H:%M (%Z)" }}
           {% endif %}
           {% if page.time_em %}</b>{% endif %}
         {% endif %}
