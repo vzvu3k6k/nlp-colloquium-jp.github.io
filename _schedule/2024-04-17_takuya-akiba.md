@@ -1,14 +1,11 @@
 ---
 layout: talk
-date: 2024-04-10 08:30:00+0900
-time_end: 10:00:00+0900
-time_em: true
-date_comment: ※予定
+date: 2024-04-17 12:00:00+0900
 inline: false
-name: 橋本龍範
-affiliation: Stanford University
+name: 秋葉拓哉
+affiliation: Sakana AI
 bio: TBD
-website: https://thashim.github.io/
+website: https://takiba.net/
 topic: TBD
 abstract: TBD
 display: true
