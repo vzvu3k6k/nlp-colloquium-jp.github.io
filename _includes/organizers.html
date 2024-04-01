@@ -1,7 +1,7 @@
 <h2 id="organizers">スタッフ</h2>
 <div class="row organizers">
   {% for organizer in site.data.staff.Organizers %}
-    <div class="col organizer-profile">
+    <div class="col-4 organizer-profile">
       <a href="{{ organizer.url }}" target="_blank"><img class="card-img-top" src="{{ organizer.image | prepend: '/assets/img/' | relative_url }}" alt="{{ organizer.name }} プロフィール画像" /></a>
       <div class="organizer-info">
         <p>
