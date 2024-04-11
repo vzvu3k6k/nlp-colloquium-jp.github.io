@@ -4,6 +4,7 @@ date: 2021-10-20 12:00:00+0900
 date_em: false
 inline: false
 name: 林佑明
+name_en: Hiroaki Hayashi
 affiliation: Carnegie Mellon University
 bio: "Hiroaki Hayashi obtained his PhD at Carnegie Mellon University, where he was advised by Graham Neubig. His research includes natural language generation, particularly on text summarization and related tasks."
 website: https://hiroakih.me/

@@ -3,6 +3,7 @@ layout: talk
 date: 2024-02-21 12:00:00+0900
 inline: false
 name: 鍜治伸裕
+name_en: Nobuhiro Kaji
 affiliation: LINEヤフー株式会社
 bio: 2005年東京大学大学院情報理工学系研究科博士後期課程修了。東京大学生産技術研究所特任准教授、情報研究通信研究機構研究員、Yahoo! JAPAN研究所上席研究員を経て2023年10月よりLINEヤフー研究所上席研究員。自然言語処理や情報検索の研究開発に従事。博士（情報理工学）。
 website: https://research.lycorp.co.jp/jp/people/28

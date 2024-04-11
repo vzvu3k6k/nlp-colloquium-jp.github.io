@@ -2,7 +2,7 @@
 layout: talk
 date: 2023-09-13 12:00:00+0900
 inline: false
-name: <a href="https://www.kecl.ntt.co.jp/icl/lirg/members/nagata/index-j.html">永田昌明</a><sup>1</sup>, <a href="https://yukiar.github.io/index_jp.html">荒瀬由紀</a><sup>2</sup>
+name: <a href="https://www.kecl.ntt.co.jp/icl/lirg/members/nagata/index-j.html">永田昌明 / Masaaki Nagata</a><sup>1</sup>, <a href="https://yukiar.github.io/index_jp.html">荒瀬由紀 / Yuki Arase</a><sup>2</sup>
 affiliation: <sup>1</sup>NTTコミュニケーション科学基礎研究所, <sup>2</sup>大阪大学
 bio: "<sup>1</sup>1987年京都大学大学院工学研究科修士課程修了．同年，日本電信電話株式会社入社．現在，コミュニケーション科学研究所 上席特別研究員．工学博士．機械翻訳，自然言語処理の研究に従事．<br><sup>2</sup>She is an associate professor at the Graduate School of Information Science and Technology, Osaka University, Japan. After obtaining my PhD in Information Science from Osaka University (2010), She worked for Microsoft Research Asia, where she started NLP research that continues to captivate me to this day. My research interests focus on paraphrasing and NLP technology for language education and healthcare."
 topic: 単語アラインメントの最前線

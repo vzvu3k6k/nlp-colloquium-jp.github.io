@@ -3,6 +3,7 @@ layout: talk
 date: 2023-12-20 12:00:00+0900
 inline: false
 name: 大山百々勢
+name_en: Momose Oyama
 affiliation: 京都大学
 bio: 2022年に京都大学工学部情報学科を卒業。現在は京都大学大学院情報学研究科修士課程に在籍中。埋め込み空間の理解に関する研究に従事。
 website: https://momoseoyama.github.io/

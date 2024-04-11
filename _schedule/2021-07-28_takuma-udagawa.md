@@ -3,6 +3,7 @@ layout: talk
 date: 2021-07-28 12:00:00+0900
 inline: false
 name: 宇田川拓真
+name_en: Takuma Udagawa
 affiliation: 東京大学
 bio: Takuma Udagawa is a final year PhD student at the University of Tokyo advised by Akiko Aizawa. He works on natural language processing and computational linguistics. His research interests include dialogue systems, language understanding, visual grounding, task design and dataset construction.
 website: https://sites.google.com/view/takumaudagawa

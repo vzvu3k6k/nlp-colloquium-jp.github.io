@@ -3,6 +3,7 @@ layout: talk
 date: 2024-01-24 12:00:00+0900
 inline: false
 name: 山田祐太朗
+name_en: Yutaro Yamada
 affiliation: Yale University
 bio: PhD student at Yale University
 website: https://runopti.github.io/

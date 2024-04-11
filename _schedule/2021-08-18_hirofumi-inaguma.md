@@ -3,6 +3,7 @@ layout: talk
 date: 2021-08-18 12:00:00+0900
 inline: false
 name: 稲熊寛文
+name_en: Hirofumi Inaguma
 affiliation: 京都大学
 bio: 2016年 京都大学工学部情報学科卒業．2018年 京都大学大学院情報学研究科修士課程修了．現在，同大学院博士後期課程にて音声認識・音声翻訳に関する研究に従事．
 website: http://sap.ist.i.kyoto-u.ac.jp/members/inaguma/

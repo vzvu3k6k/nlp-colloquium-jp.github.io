@@ -3,6 +3,7 @@ layout: talk
 date: 2023-02-15 12:00:00+0900
 inline: false
 name: 井上誠一
+name_en: Seiichi Inoue
 affiliation: 東京都立大学
 bio: 東京都立大学システムデザイン研究科情報科学域 博士前期課程に在籍中
 website: https://seiichiinoue.github.io/about/

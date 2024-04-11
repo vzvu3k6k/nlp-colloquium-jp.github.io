@@ -3,6 +3,7 @@ layout: talk
 date: 2022-04-06 12:00:00+0900
 inline: false
 name: 小島熙之
+name_en: Noriyuki Kojima
 affiliation: Cornell University
 bio: Noriyuki Kojima is a third-year CS Ph.D. student at Cornell University. His research focus is interactive learning for multi-modal systems. His research is supported by the Masason Fellowship.
 website: https://kojimano.github.io/

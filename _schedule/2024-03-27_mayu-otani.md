@@ -3,6 +3,7 @@ layout: talk
 date: 2024-03-27 12:00:00+0900
 inline: false
 name: 大谷まゆ
+name_en: Mayu Otani
 affiliation: 株式会社サイバーエージェント
 bio: "2018年に奈良先端科学技術大学院大学情報科学研究科博士後期課程修了後、サイバーエージェントに入社。主にコンピュータビジョンにおける評価に関する研究に従事。"
 website: https://mayu-ot.github.io/

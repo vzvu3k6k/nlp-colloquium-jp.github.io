@@ -4,6 +4,7 @@ date: 2021-11-17 12:00:00+0900
 date_em: false
 inline: false
 name: 山田育矢
+name_en: Ikuya Yamada
 affiliation: 株式会社Studio Ousia
 bio: "(株)Studio Ousiaを創業し，自然言語処理の研究開発に従事．2000年に(株)ニューロンを起業し，2005年に売却．その後，2007年に(株)Studio Ousiaを共同創業．理化学研究所AIP客員研究員．Kaggle Master．"
 website: https://www.ikuya.net/index_ja.html

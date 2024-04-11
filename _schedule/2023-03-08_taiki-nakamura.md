@@ -3,6 +3,7 @@ layout: talk
 date: 2023-03-08 12:00:00+0900
 inline: false
 name: 中村泰貴
+name_en: Taiki Nakamura
 affiliation: 東京大学
 bio: 東大院・情報理工 猿渡・小山研究室 博士課程1年在籍
 website: https://supikiti.notion.site/NT-Nakamura-Taiki-2b7e2d2eba624ec1a304d9b8f9b3c658

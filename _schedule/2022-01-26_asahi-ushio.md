@@ -4,6 +4,7 @@ date: 2022-01-26 21:00:00+0900
 time_em: true
 inline: false
 name: 潮旭
+name_en: Asahi Ushio
 affiliation: Cardiff University 
 bio: Asahi Ushio is a Ph.D student in the School of Computer Science and Informatics at Cardiff University, co-advised by Jose Camacho-Collados and Steven Schockaert. He studies natural language processing (NLP), focusing on language model probing and application of language model in tasks such as named-entity recognition (NER) and question generation (QG). In 2021, he did research internships at Amazon supervised by Danushka Bollegala, and Snapchat co-supervised by Francesco Barbieri and Leonardo Neves. Before joining Cardiff University, he had been a full-time research engineer at Cogent Labs from 2018 to 2020. Visit his personal website for more info https://asahiushio.com
 website: https://asahi417.github.io/

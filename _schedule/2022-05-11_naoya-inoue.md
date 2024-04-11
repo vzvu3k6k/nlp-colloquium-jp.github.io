@@ -3,6 +3,7 @@ layout: talk
 date: 2022-05-11 12:00:00+0900
 inline: false
 name: 井之上直也
+name_en: Naoya Inoue
 affiliation: 北陸先端科学技術大学院大学
 bio: 2013年東北大学大学院情報科学研究科博士後期課程修了。株式会社デンソー基礎研究所研究員、東北大学助教、米 Stony Brook University 研究員を経験後、2022年4月より北陸先端科学技術大学院大学准教授に着任、現在に至る。博士（情報科学）。自然言語処理、特に推論に関する研究に注力。
 website: http://naoya-i.github.io/

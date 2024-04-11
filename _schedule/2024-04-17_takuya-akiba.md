@@ -3,6 +3,7 @@ layout: talk
 date: 2024-04-17 12:00:00+0900
 inline: false
 name: 秋葉拓哉
+name_en: Takuya Akiba
 affiliation: Sakana AI
 bio: Sakana AI リサーチサイエンティスト。東京大学大学院情報理工学系研究科で博士号を取得後、国立情報学研究所、Preferred Networks、Stability AIを経て、現職。現在は生成基盤モデルに関連する複数の研究プロジェクトを手掛ける。共著書に『Kaggleに挑む深層学習プログラミングの極意』（講談社）などがある。
 website: https://takiba.net/

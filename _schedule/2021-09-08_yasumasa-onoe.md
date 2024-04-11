@@ -4,6 +4,7 @@ date: 2021-09-08 12:30:00+0900
 time_em: true
 inline: false
 name: 尾上康雅
+name_en: Yasumasa Onoe
 affiliation: The University of Texas at Austin
 bio: Yasumasa Onoe is a PhD student in Computer Science at the University of Texas at Austin, advised by Greg Durrett. His recent research includes entity analysis tasks such as fine-grained entity typing, entity linking (named entity disambiguation), and effective entity representations (e.g., box embeddings). Currently, he is interested in how to teach machines common sense about real-world entities.
 website: https://www.cs.utexas.edu/~yasumasa/

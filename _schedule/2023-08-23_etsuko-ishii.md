@@ -3,6 +3,7 @@ layout: talk
 date: 2023-08-23 12:00:00+0900
 inline: false
 name: 石井悦子
+name_en: Etsuko Ishii
 affiliation: 香港科技大学
 bio: 香港科技大学PhD課程4年。2019年東京大学工学部計数工学科卒業。対話システムを中心に自然言語処理の研究に取り組む。
 website: https://etsukokuste.github.io/
