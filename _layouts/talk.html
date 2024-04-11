@@ -37,7 +37,7 @@ layout: default
 
   <article class="talk-body">
     <div class="talk-speaker">
-      <h2 class="speaker-name">{{ page.name }} ({{ page.affiliation }})</h2>
+      <h2 class="speaker-name">{{ page.name }} {% if page.name_en %}/ {{ page.name_en }} {% endif %}({{ page.affiliation }})</h2>
       {% if page.website %}
         <a href="{{ page.website }}" target="_blank">[Webサイト]</a>
       {% endif %}
