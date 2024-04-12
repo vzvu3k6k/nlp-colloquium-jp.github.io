@@ -3,6 +3,7 @@ layout: talk
 date: 2022-04-20 12:00:00+0900
 inline: false
 name: 酒井哲也
+name_en: Tetsuya Sakai
 affiliation: 早稲田大学
 bio: "約20年の企業経験 (最後に務めた会社はMicrosoft Research Asia) を経て2013年により早稲田大学基幹理工学部情報理工学科教員に。Naver Corporation研究統括顧問、NII客員教授。ACM distinguished member。専門は情報検索。"
 website: http://sakailab.com/tetsuya/

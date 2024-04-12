@@ -3,6 +3,7 @@ layout: talk
 date: 2022-12-14 12:00:00+0900
 inline: false
 name: 平岡達也
+name_en: Tatsuya Hiraoka
 affiliation: 富士通株式会社 [*前所属の東京工業大学での成果]
 bio: 2022年4月より現職、富士通株式会社研究員。2022年東京工業大学博士課程修了、博士（工学）。
 website: https://tathi.github.io/

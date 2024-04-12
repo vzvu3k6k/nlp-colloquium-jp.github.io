@@ -3,6 +3,7 @@ layout: talk
 date: 2023-05-31 12:00:00+0900
 inline: false
 name: 浅井明里
+name_en: Akari Asai
 affiliation: University of Washington
 bio: Akari Asai is a Ph.D. student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, advised by Prof. Hannaneh Hajishirzi. Her research lies in natural language processing and machine learning. Her recent research focuses on question answering, multilingual NLP, and NLP efficiency. She received the IBM Fellowship in 2022 and the Nakajima Foundation Fellowship in 2019. Prior to UW, she obtained a B.E. degree in Electrical Engineering and Computer Science from the University of Tokyo.
 website: https://akariasai.github.io/

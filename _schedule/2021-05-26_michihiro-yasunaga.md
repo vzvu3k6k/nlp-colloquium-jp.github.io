@@ -3,6 +3,7 @@ layout: talk
 date: 2021-05-26 12:00:00+0900
 inline: false
 name: 安永迪弘
+name_en: Michihiro Yasunaga
 affiliation: Stanford University
 bio: Michihiro Yasunaga is a 2nd-year PhD student in Computer Science at Stanford University, advised by Percy Liang and Jure Leskovec. His research interest is in natural language processing and machine learning. His recent work focuses on learning from various modalities of data, such as text, programs and graphs. He received his B.S. from Yale University in 2019.
 website: https://michiyasunaga.github.io/

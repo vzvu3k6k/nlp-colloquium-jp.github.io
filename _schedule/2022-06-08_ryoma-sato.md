@@ -3,6 +3,7 @@ layout: talk
 date: 2022-06-08 12:00:00+0900
 inline: false
 name: 佐藤竜馬
+name_en: Ryoma Sato
 affiliation: 京都大学
 bio: 2021年3月京都大学情報学研究科修士課程卒業。2021年4月京都大学情報学研究科博士課程入学。専門分野はグラフニューラルネットワーク、最適輸送、および情報検索・推薦システム。
 website: https://joisino.net/

@@ -4,6 +4,7 @@ date: 2022-10-31 12:00:00+0900
 time_em: false
 inline: false
 name: 谷中瞳
+name_en: Hitomi Yanaka
 affiliation: "東京大学"
 bio: 東京大学大学院情報理工学系研究科コンピュータ科学専攻講師。2018年東京大学大学院工学系研究科システム創成学専攻博士課程修了、博士（工学）。2018年から2021年まで理化学研究所革新知能統合研究センター特別研究員、2021年東京大学卓越研究員に採択され現職に至る。理化学研究所AIPセンター自然言語理解チーム客員研究員兼任。
 website: https://hitomiyanaka.mystrikingly.com/

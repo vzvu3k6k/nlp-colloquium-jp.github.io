@@ -3,6 +3,7 @@ layout: talk
 date: 2022-07-27 12:00:00+0900
 inline: false
 name: 藤沼祥成
+name_en: Yoshinari Fujinuma
 affiliation: "AWS AI [*Work done at Univ. of Colorado Boulder]"
 bio: Yoshinari Fujinuma obtained his PhD at University of Colorado Boulder, where he was advised by Jordan Boyd-Graber, Katharina Kann, and Michael J. Paul. His PhD research includes analysis and improvement on cross-lingual models.
 website: https://akkikiki.github.io/

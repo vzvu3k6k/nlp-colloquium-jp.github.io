@@ -5,6 +5,7 @@ date_em: false
 time_em: true
 inline: false
 name: 坂口慶祐
+name_en: Keisuke Sakaguchi
 affiliation: Allen Institute for AI
 bio: "Keisuke Sakaguchi is a research scientist at the Allen Institute for AI (AI2). His research focuses on 1) commonsense knowledge acquisition and reasoning, 2) robust and efficient methods for natural language processing, and 3) NLP applications for educational purposes."
 website: https://keisuke-sakaguchi.github.io/

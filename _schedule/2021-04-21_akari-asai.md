@@ -3,6 +3,7 @@ layout: talk
 date: 2021-04-21 12:00:00+0900
 inline: false
 name: 浅井明里
+name_en: Akari Asai
 affiliation: University of Washington
 bio: ワシントン大学コンピューターサイエンス博士課程に在籍．2019年東京大学工学部電子情報工学科卒業．自然言語処理，主に質問応答や多言語自然言語処理等の研究に従事．
 website: https://akariasai.github.io/

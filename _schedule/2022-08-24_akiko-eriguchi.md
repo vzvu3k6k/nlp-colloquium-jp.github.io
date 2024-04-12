@@ -5,6 +5,7 @@ time_tba: false
 time_em: true
 inline: false
 name: 江里口瑛子
+name_en: Akiko Eriguchi
 affiliation: Microsoft
 bio: "マイクロソフト　シニアリサーチャー。2019年より現職。2018年東京大学工学系研究科博士課程修了。博士(工学)。2015年-2018年 日本学術振興会特別研究員 (DC1)。自然言語処理、機械学習に関する研究に従事。"
 website: https://www.logos.t.u-tokyo.ac.jp/~eriguchi/

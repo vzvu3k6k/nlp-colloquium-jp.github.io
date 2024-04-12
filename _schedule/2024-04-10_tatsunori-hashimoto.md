@@ -5,6 +5,7 @@ time_end: 10:00:00+0900
 time_em: true
 inline: false
 name: 橋本龍範
+name_en: Tatsunori Hashimoto
 affiliation: Stanford University
 bio: Tatsunori Hashimoto is an Assistant Professor in the Computer Science Department at Stanford University. He is a member of the statistical machine learning and natural language processing groups at Stanford and his work focuses on statistical approaches to improving and understanding language models. Work from his group spans many areas, including instruction-following and controllable language models, differentially private fine-tuning, and benchmarks for LM safety and capabilities. He received his Ph.D. at MIT under the supervision of Tommi Jaakkola and David Gifford, and is a Kavli fellow, a Sony and Amazon research award winner, and his work has been recognized with best paper awards at ICML and CHI.
 website: https://thashim.github.io/

@@ -3,6 +3,7 @@ layout: talk
 date: 2022-03-23 12:00:00+0900
 inline: false
 name: 磯沼大
+name_en: Masaru Isonuma
 affiliation: 東京大学
 bio: 東京大学大学院工学系研究科特任研究員。2021年9月東京大学大学院工学系研究科にて博士（工学）を取得。その後同研究科特任研究員に着任し、現在に至る。自然言語処理、特に教師なし文書要約やトピックモデルに関する研究に従事。
 website: https://www.isonuma.com/home

@@ -3,6 +3,7 @@ layout: talk
 date: 2023-10-18 12:00:00+0900
 inline: false
 name: 山木良輔
+name_en: Ryosuke Yamaki
 affiliation: 立命館大学
 bio: 2021年立命館大学情報理工学部中途退学(同大大学院に飛び級入学のため)。2023年立命館大学大学院情報理工学研究科博士前期課程修了。修士(工学)。現在、立命館大学大学院情報理工学研究科博士後期課程に在学中。立命館先進研究アカデミー学生フェロー。
 website: https://ryosuke-yamaki.github.io/homepage/ 

@@ -3,6 +3,7 @@ layout: talk
 date: 2024-03-06 12:00:00+0900
 inline: false
 name: 中石海
+name_en: Kai Nakaishi
 affiliation: 東京大学
 bio: 東京大学教養学部統合自然科学科卒業。同大学院総合文化研究科修士課程修了。現在、同研究科博士課程に在籍中。バックグラウンドは理論物理、特に統計力学。言語について物理学の観点から研究している。
 website: https://sites.google.com/view/kai-nakaishi-jpn/

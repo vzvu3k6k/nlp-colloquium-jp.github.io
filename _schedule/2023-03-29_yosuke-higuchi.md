@@ -3,6 +3,7 @@ layout: talk
 date: 2023-03-29 12:00:00+0900
 inline: false
 name: 樋口陽祐
+name_en: Yosuke Higuchi
 affiliation: 早稲田大学
 bio: 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 博士課程 在籍
 website: https://yosukehiguchi.github.io/

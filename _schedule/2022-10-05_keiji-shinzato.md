@@ -4,6 +4,7 @@ date: 2022-10-05 10:00:00+0900
 time_em: true
 inline: false
 name: 新里圭司
+name_en: Keiji Shinzato
 affiliation: "Rakuten Institute of Technology Americas"
 bio: "Rakuten Institute of Technology Americas, Lead Scientist. 京都大学大学院情報学研究科 特任助教、特定研究員を経て、2011年に楽天技術研究所入所。2018年より現職。商品属性の抽出、レビュー解析、商品と製品のマッチングなどe-commerceに特化した自然言語処理技術の研究開発に従事。2006年北陸先端科学技術大学院大学情報科学研究科 博士後期課程修了。博士（情報科学）。"
 website: https://sites.google.com/site/shinzatokeiji/home?authuser=0

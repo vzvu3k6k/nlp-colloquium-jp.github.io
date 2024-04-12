@@ -3,6 +3,7 @@ layout: talk
 date: 2024-02-07 12:00:00+0900
 inline: false
 name: 小林悟郎
+name_en: Goro Kobayashi
 affiliation: 東北大学
 bio: 東北大学博士課程に在籍中。2022年東北大学修士課程修了。Transformerモデルの分析に関する研究に従事。
 website: https://sites.google.com/view/goro-kobayashi/

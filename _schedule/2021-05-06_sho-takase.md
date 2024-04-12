@@ -4,6 +4,7 @@ date: 2021-05-06 12:00:00+0900
 date_em: true
 inline: false
 name: 高瀬翔
+name_en: Sho Takase
 affiliation: 東京工業大学
 bio: 2017年東北大学大学院情報科学研究科博士後期課程修了．博士（情報科学）．NTTコミュニケーション科学基礎研究所でのリサーチアソシエイト，東京工業大学での研究員を経て，2020年4月より東京工業大学助教．自然言語処理の研究に従事．言語処理学会，ACL各会員．
 website: https://takase.github.io/

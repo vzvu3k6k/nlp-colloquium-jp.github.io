@@ -3,6 +3,7 @@ layout: talk
 date: 2022-02-09 12:00:00+0900
 inline: false
 name: 菅原朔
+name_en: Saku Sugawara
 affiliation: 国立情報学研究所
 bio: 国立情報学研究所助教。2020年東京大学大学院情報理工学系研究科博士課程修了。2020年より現職。
 website: https://penzant.net/
