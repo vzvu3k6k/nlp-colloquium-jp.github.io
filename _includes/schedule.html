@@ -40,6 +40,7 @@
               <td>
                 {% if item.website %}<a href="{{ item.website }}" target="_blank">{% endif %}
                 {{ item.name | remove: '<p>' | remove: '</p>' | emojify }}
+                {% if item.name_en %} / {{ item.name_en | remove: '<p>' | remove: '</p>' | emojify }} {% endif %}
                 {% if item.website %}</a>{% endif %}<br>
                 {% if item.affiliation %}({{ item.affiliation }}){% endif %}
               </td>
