@@ -12,4 +12,4 @@ abstract: 大規模言語モデルを活用した言語モデルエージェン�
 display: true
 ---
 
-[論文1](https://arxiv.org/abs/2307.12856) (ICLR2024) [論文2](https://arxiv.org/abs/2311.18751) (ICLR2024 Workshop)
+[[論文1]](https://arxiv.org/abs/2307.12856) (ICLR2024) [[論文2]](https://arxiv.org/abs/2311.18751) (ICLR2024 Workshop)
