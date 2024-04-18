@@ -15,4 +15,4 @@ abstract: |-
   本講演では私の研究グループが最近行った3つのプロジェクトを紹介します：RLHFトレーニングプロセス（AlpacaFarm）の再現、言語モデルを用いて事前トレーニングとRLHFデータに反映される意見の源を探る（OpinionQA）、そして言語モデルのテストセット汚染を発見、証明するアルゴリズムの開発。このようなプロジェクトを通じて今後のブラックボックス言語モデルをどう研究するかに関する意見も述べたいと思います。
 display: true
 ---
-[[スライド]](./assets/pdf/tatsunori_hashimoto_slides.pdf) [[論文1]](https://arxiv.org/abs/2305.14387) (NeurIPS 2023) [[論文2]](https://arxiv.org/abs/2303.17548) (ICML 2023) [[論文3]](https://arxiv.org/abs/2310.17623) (ICLR 2024)
+[[スライド]](./assets/pdf/2024-04-10_tatsunori-hashimoto_slides.pdf) [[論文1]](https://arxiv.org/abs/2305.14387) (NeurIPS 2023) [[論文2]](https://arxiv.org/abs/2303.17548) (ICML 2023) [[論文3]](https://arxiv.org/abs/2310.17623) (ICLR 2024)
