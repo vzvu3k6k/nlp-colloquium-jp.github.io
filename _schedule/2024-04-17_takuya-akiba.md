@@ -11,4 +11,4 @@ topic: Evolutionary Optimization of Model Merging Recipes
 abstract: 進化的アルゴリズムを用いて多様なオープンソースモデルを融合することで新しい基盤モデルを効率的に開発する手法「進化的モデルマージ」を提案します。我々のアプローチは、既存のオープンモデルの膨大な集合知を活用するため、モデルを非常に効率的に作成できます。進化的モデルマージは、「非英語言語と数学的推論」「非英語言語と画像」といった、これまでは困難と思われていた全く異なる領域のモデルをマージする方法すらも自動的に発見できることが分かりました。
 display: true
 ---
-[[スライド]](https://speakerdeck.com/iwiwi/17-nlpkorokiumu) [[論文]](https://arxiv.org/abs/2403.13187) [[関連記事]](https://sakana.ai/evolutionary-model-merge-jp/)
+[[動画]](https://www.youtube.com/watch?v=33B5B4BdGew) [[スライド]](https://speakerdeck.com/iwiwi/17-nlpkorokiumu) [[論文]](https://arxiv.org/abs/2403.13187) [[関連記事]](https://sakana.ai/evolutionary-model-merge-jp/)
