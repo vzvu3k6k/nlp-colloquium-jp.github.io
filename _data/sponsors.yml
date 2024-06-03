@@ -1,16 +1,21 @@
 Sponsors:
-  - name: 講談社 IT戦略企画室
-    url: https://www.kodansha.com/jp/
-    image: logo_kodansha_v1_350x90.png
-    width: 280px
-    height: 72px
-  - name: 株式会社バオバブ
-    url: https://baobab-trees.com/
-    image: logo_baobab_v1_350x154.png
-    width: 200px
-    height: 88px
-  - name: 株式会社IVRy
-    url: https://ivry.jp/
-    image: logo_ivry_v1_417x183.png
-    width: 200px
-    height: 88px
+  - type: ""
+    organizations:
+      - name: 講談社 IT戦略企画室
+        url: https://www.kodansha.com/jp/
+        image: logo_kodansha_it.jpeg
+        width: 320px
+      - name: 株式会社博報堂DYホールディングス
+        url: https://www.hakuhodody-holdings.co.jp/
+        image: logo_hakuhodo_dy_holdings.jpeg
+        width: 320px
+  - type: ""
+    organizations:
+      - name: 株式会社バオバブ
+        url: https://baobab-trees.com/
+        image: logo_baobab.jpeg
+        width: 250px
+      - name: 株式会社IVRy
+        url: https://ivry.jp/
+        image: logo_ivry.jpeg
+        width: 250px
