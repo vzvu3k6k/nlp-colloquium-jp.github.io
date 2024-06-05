@@ -12,4 +12,4 @@ abstract: Minimum Bayes-Risk (MBR) decodingは、テキスト生成で用いら�
 display: true
 ---
 
-[[論文]](https://arxiv.org/abs/2404.00752) (NAACL 2024)
+[[スライド]](https://speakerdeck.com/atsumoto/minimum-bayes-risk-decoding-niokeruxing-neng-bian-dong-noli-jie-nixiang-kete-2024nian-6yue-5ri-di-59hui-nlpkorokiumu) [[論文]](https://arxiv.org/abs/2404.00752) (NAACL 2024)
