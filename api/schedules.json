@@ -1,0 +1,20 @@
+---
+layout: none
+---
+[{% for item in site.schedule reversed %}{% if item.display %}
+  {
+    "number": {{ forloop.rindex }},
+    "name": {{ item.name | jsonify }},
+    "name_en": {{ item.name_en | jsonify }},
+    "affiliation": {{ item.affiliation | jsonify }},
+    "website": {{ item.website | jsonify }},
+    "topic": {{ item.topic | jsonify }},
+    "abstract": {{ item.abstract | jsonify }},
+    "date": {{ item.date | jsonify }},
+    "time_end": {{ item.time_end | jsonify }},
+    "bio": {{ item.bio | jsonify }},
+    "talk_url": {{ item.url | absolute_url | jsonify }},
+    "id": {{ item.id | jsonify }},
+    "md_path": {{ item.path | jsonify }}
+  }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor -%}
+]
