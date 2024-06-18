@@ -130,3 +130,9 @@ table#scheduleTable {
 .bd-callout-info h4 {
   color: #5bc0de;
 }
+.bd-callout-themecolor {
+  border-left-color: var(--global-theme-color);
+}
+.bd-callout-themecolor h4 {
+  color: var(--global-theme-color);
+}
