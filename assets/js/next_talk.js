@@ -18,8 +18,7 @@ function getNextTalk(talks) {
     let closestTimeDiff = Infinity;
   
     talks.forEach(talk => {
-        // Safari や iOS ブラウザ向けに日付フォーマットを `YYYY-MM-DD` から `YYYY/MM/DD` に変換
-        const talkDate = new Date(talk.time_end.replace(/-/g, '/'));
+        const talkDate = new Date(talk.time_end);
         if (talkDate > now) {
             const timeDiff = talkDate - now;
             if (timeDiff < closestTimeDiff) {
@@ -47,8 +46,7 @@ async function displayClosestTalk() {
     const nextTalkDiv = document.getElementById('next-talk');
   
     if (closestTalk) {
-        // Safari や iOS ブラウザ向けに日付フォーマットを `YYYY-MM-DD` から `YYYY/MM/DD` に変換
-        const date = new Date(closestTalk.date.replace(/-/g, '/'));
+        const date = new Date(closestTalk.date);
         const date_str = new Intl.DateTimeFormat("ja-JP", {
             month: 'long',
             day: 'numeric',
