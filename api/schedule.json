@@ -1,0 +1,35 @@
+---
+layout: none
+---
+{% assign update_date = site.time | date: '%Y-%m-%d %H:%M:%S %z' %}
+{
+  "update": {{ update_date | jsonify }},
+  "talks": [{% for item in site.schedule reversed %}{% if item.display %}{% if item.time_end %}
+      {% if item.time_end contains ' ' %}
+        {% assign time_end = item.time_end | date: '%Y-%m-%d %H:%M:%S %z' %}
+      {% else %}
+        {% assign date_ymd = item.date | date: '%Y-%m-%d' %}
+        {% assign time_end = date_ymd | append: ' ' | append: item.time_end | date: '%Y-%m-%d %H:%M:%S %z' %}
+      {% endif %}
+    {% else %}
+      {% assign time_end_second = item.date | date: '%s' %}
+      {% assign time_end = time_end_second | plus: 3600 | date: '%Y-%m-%d %H:%M:%S %z' %}
+    {% endif %}
+    {
+      "number": {{ forloop.rindex }},
+      "name": {{ item.name | jsonify }},
+      "name_en": {{ item.name_en | jsonify }},
+      "affiliation": {{ item.affiliation | jsonify }},
+      "website": {{ item.website | jsonify }},
+      "topic": {{ item.topic | jsonify }},
+      "abstract": {{ item.abstract | jsonify }},
+      "date": {{ item.date | jsonify }},
+      "timezone": {{ update_date | date: '%Z' | jsonify }},
+      "time_end": {{ time_end | jsonify }},
+      "bio": {{ item.bio | jsonify }},
+      "talk_url": {{ item.url | absolute_url | jsonify }},
+      "id": {{ item.id | jsonify }},
+      "md_path": {{ item.path | jsonify }}
+    }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor -%}
+  ]
+}

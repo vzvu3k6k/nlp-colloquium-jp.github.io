@@ -10,10 +10,13 @@ organizers: true # includes a list of organizers
 social: false  # includes social icons at the bottom of the page
 ---
 
-
 **NLPコロキウム** は自然言語処理 (NLP) および 計算言語学 (CL) に関する最先端の研究・開発に取り組んでいる方をお招きするトークイベントです。
 
 参加用URLなどNLPコロキウムに関するお知らせを受け取りたい方は[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdoLi9-yUvNfQAP_a71HRIBhLsXjwOPhEV-QdJXRvKPyiU5dQ/viewform?usp=sf_link)からメーリングリストへのご登録をお願いします。
+
+
+<div id="next-talk"></div>
+<script src="{{ '/assets/js/next_talk.js' | relative_url }}"></script>
 
 
 # 主旨
