@@ -1,3 +1,5 @@
+const now = new Date();
+
 async function fetchTalks() {
     try {
         const response = await fetch("/api/schedule.json");
@@ -13,7 +15,6 @@ async function fetchTalks() {
 }
 
 function getNextTalk(talks) {
-    const now = new Date();
     let closestTalk = null;
     let closestTimeDiff = Infinity;
   
@@ -29,6 +30,12 @@ function getNextTalk(talks) {
     });
   
     return closestTalk;
+}
+
+function checkIfOngoing(talk) {
+    const startDate = new Date(talk.date);
+    const endDate = new Date(talk.time_end);
+    return (startDate <= now & now <= endDate)? true: false;
 }
 
 function prepareNameColumn(name, name_en, website) {
@@ -52,24 +59,41 @@ async function displayClosestTalk() {
             day: 'numeric',
             weekday: "short",
             hour: "numeric",
-            minute: "numeric",
+            minute: "numeric"
+        }).format(date);
+        const end_date = new Date(closestTalk.time_end);
+        const end_date_str = new Intl.DateTimeFormat("ja-JP", {
+            hour: "numeric",
+            minute: "numeric"
+        }).format(end_date);
+        const tz = new Intl.DateTimeFormat("ja-JP", {
             timeZoneName: "short",
             timeZone: closestTalk.timezone
-        }).format(date);
+        }).formatToParts(date).find(part => part.type === 'timeZoneName').value;
         console.log(date_str);
-
         const name = prepareNameColumn(closestTalk.name, closestTalk.name_en, closestTalk.website)
 
-        nextTalkDiv.classList.add("bd-callout", "bd-callout-default");
-        nextTalkDiv.innerHTML = `
-        <p>次回のトークは ${date_str} より開始予定です。</p>
-        <dl class="row mb-1" style="margin-bottom: 0px;">
-            <dt class="col-sm-2 mb-1">スピーカー</dt>
-            <dd class="col-sm-10 mb-1">${name}</dd>
-            <dt class="col-sm-2 mb-1">トピック</dt>
-            <dd class="col-sm-10 mb-1"><a href=${closestTalk.talk_url}>${closestTalk.topic}</a></dd>
-        </dl>`;
-        
+        if (checkIfOngoing(closestTalk)) {
+            nextTalkDiv.classList.add("bd-callout", "bd-callout-themecolor");
+            nextTalkDiv.innerHTML = `
+            <p>現在下記のトークを開催中です！${date_str} ~ ${end_date_str} ${tz}</p>
+            <dl class="row mb-1" style="margin-bottom: 0px;">
+                <dt class="col-sm-2 mb-1">スピーカー</dt>
+                <dd class="col-sm-10 mb-1">${name}</dd>
+                <dt class="col-sm-2 mb-1">トピック</dt>
+                <dd class="col-sm-10 mb-1"><a href=${closestTalk.talk_url}>${closestTalk.topic}</a></dd>
+            </dl>`;
+        } else {
+            nextTalkDiv.classList.add("bd-callout", "bd-callout-default");
+            nextTalkDiv.innerHTML = `
+            <p>次回のトークは ${date_str} ${tz} より開始予定です。</p>
+            <dl class="row mb-1" style="margin-bottom: 0px;">
+                <dt class="col-sm-2 mb-1">スピーカー</dt>
+                <dd class="col-sm-10 mb-1">${name}</dd>
+                <dt class="col-sm-2 mb-1">トピック</dt>
+                <dd class="col-sm-10 mb-1"><a href=${closestTalk.talk_url}>${closestTalk.topic}</a></dd>
+            </dl>`;
+        }
     } else {
         nextTalkDiv.innerHTML = '';
     }
