@@ -12,4 +12,4 @@ abstract: 大規模言語モデルを活用した言語モデルエージェン�
 display: true
 ---
 
-[[動画]](https://www.youtube.com/watch?v=8MQN74XHeio) [[スライド]](https://docs.google.com/presentation/d/1NDZUEDTC-FZuQWwWs8HI0D0rzos4l5jtJYzILs32S-Q/edit?usp=sharing) [[論文1]](https://arxiv.org/abs/2307.12856) (ICLR2024) [[論文2]](https://arxiv.org/abs/2311.18751) (ICLR2024 Workshop)
+[[動画]](https://www.youtube.com/watch?v=8MQN74XHeio) [[スライド]](https://docs.google.com/presentation/d/1NDZUEDTC-FZuQWwWs8HI0D0rzos4l5jtJYzILs32S-Q/edit?usp=sharing) [[論文1]](https://arxiv.org/abs/2307.12856) (ICLR 2024) [[論文2]](https://arxiv.org/abs/2311.18751) (ICLR 2024 Workshop)
