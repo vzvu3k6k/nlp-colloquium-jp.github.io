@@ -12,4 +12,5 @@ topic: 「動物言語処理」入門—AI と基盤モデルで動物言語を�
 abstract: シジュウカラの「文法」、マッコウクジラの「母音」、アフリカゾウの「名前」... 近年、動物の音声コミュニケーションには、人間の言語に似た特徴があることが分かってきました。これら特定の種・タスクに対して、従来の生物音響学の分野では、統計的な手法や教師あり機械学習を用いて問題を解くのが一般的でしたが、教師データの量およびモデルの汎用性の問題がありました。一方、「AI を用いて動物言語を解読する」ことをミッションとする非営利団体の Earth Species Project では、多様な種・タスクの動物言語処理に応用できる汎用・高性能の基盤モデルの開発に取り組んでいます。本トークでは、自己教師あり学習に基づく動物音声用の基盤モデル AVES、音声・言語のマルチモーダルモデル BioLingual、動物音声書き下しシステム ISPA などを紹介し「ImageNet 的瞬間」がまさに起こりつつある動物言語処理の世界を案内したいと思います。
 display: true
 ---
-[[スライド]](https://docs.google.com/presentation/d/10c-oJ-oKyhSqj16Rk4CEAY_U99aXTev4guGj1XTZ0r4/edit?usp=sharing) [[論文1]](https://arxiv.org/abs/2210.14493) (ICASSP 2023) [[論文2]](https://arxiv.org/abs/2210.12300) (ICASSP 2023) [[論文3]](https://arxiv.org/abs/2402.03269) (XAI-SA 2024)
+
+[[動画]](https://youtu.be/8bJzA1EySck) [[スライド]](https://docs.google.com/presentation/d/10c-oJ-oKyhSqj16Rk4CEAY_U99aXTev4guGj1XTZ0r4/edit?usp=sharing) [[論文1]](https://arxiv.org/abs/2210.14493) (ICASSP 2023) [[論文2]](https://arxiv.org/abs/2210.12300) (ICASSP 2023) [[論文3]](https://arxiv.org/abs/2402.03269) (XAI-SA 2024)
