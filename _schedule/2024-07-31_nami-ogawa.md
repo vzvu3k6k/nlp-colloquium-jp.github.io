@@ -13,4 +13,4 @@ abstract: "Pepperに代表されるソーシャルロボット（※1）は社�
 display: true
 ---
 
-[[論文]](https://dl.acm.org/doi/10.1145/3613904.3642561) (CHI 2024) [[関連動画]](https://youtu.be/5so3PTDnWsk) (CHI 2024 発表動画)
+[[スライド]](https://speakerdeck.com/nami_ogawa/di-62hui-nlpkorokiumu-narikiri-wocu-suhcishe-ji-dui-hua-xing-jie-ke-robotutonoyuan-ge-cao-zuo-zhe-henoriarutaimubian-huan-yin-sheng-huidobatukunoshi-yong?slide=3) [[論文]](https://dl.acm.org/doi/10.1145/3613904.3642561) (CHI 2024) [[関連動画]](https://youtu.be/5so3PTDnWsk) (CHI 2024 発表動画)
