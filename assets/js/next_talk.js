@@ -67,8 +67,7 @@ async function displayClosestTalk() {
             minute: "numeric"
         }).format(end_date);
         const tz = new Intl.DateTimeFormat("ja-JP", {
-            timeZoneName: "short",
-            timeZone: closestTalk.timezone
+            timeZoneName: "shortGeneric"
         }).formatToParts(date).find(part => part.type === 'timeZoneName').value;
         console.log(date_str);
         const name = prepareNameColumn(closestTalk.name, closestTalk.name_en, closestTalk.website)
@@ -76,7 +75,7 @@ async function displayClosestTalk() {
         if (checkIfOngoing(closestTalk)) {
             nextTalkDiv.classList.add("bd-callout", "bd-callout-themecolor");
             nextTalkDiv.innerHTML = `
-            <p>現在下記のトークを開催中です！${date_str} ~ ${end_date_str} ${tz}</p>
+            <p>現在下記のトークを開催中です！${date_str} ~ ${end_date_str} (${tz})</p>
             <dl class="row mb-1" style="margin-bottom: 0px;">
                 <dt class="col-sm-2 mb-1">スピーカー</dt>
                 <dd class="col-sm-10 mb-1">${name}</dd>
@@ -86,7 +85,7 @@ async function displayClosestTalk() {
         } else {
             nextTalkDiv.classList.add("bd-callout", "bd-callout-default");
             nextTalkDiv.innerHTML = `
-            <p>次回のトークは ${date_str} ${tz} より開始予定です。</p>
+            <p>次回のトークは ${date_str} (${tz}) より開始予定です。</p>
             <dl class="row mb-1" style="margin-bottom: 0px;">
                 <dt class="col-sm-2 mb-1">スピーカー</dt>
                 <dd class="col-sm-10 mb-1">${name}</dd>
