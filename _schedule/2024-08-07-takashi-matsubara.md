@@ -13,4 +13,4 @@ abstract: 本発表では，CVPR2024でHighlightに選ばれたPredicated Diffus
 display: true
 ---
 
-[[スライド]](https://tksmatsubara.github.io/ja/projects/sueyoshi2023/) [[論文]](https://openaccess.thecvf.com/content/CVPR2024/html/Sueyoshi_Predicated_Diffusion_Predicate_Logic-Based_Attention_Guidance_for_Text-to-Image_Diffusion_Models_CVPR_2024_paper.html) (CVPR 2024)
+[[動画]](https://youtu.be/gg0fKVq5HUo)[[スライド]](https://tksmatsubara.github.io/ja/projects/sueyoshi2023/) [[論文]](https://openaccess.thecvf.com/content/CVPR2024/html/Sueyoshi_Predicated_Diffusion_Predicate_Logic-Based_Attention_Guidance_for_Text-to-Image_Diffusion_Models_CVPR_2024_paper.html) (CVPR 2024)
