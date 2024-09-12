@@ -13,4 +13,4 @@ abstract: 人間が言語を学習するとき、その言語が複雑な書記�
 display: true
 ---
 
-[[論文]](https://arxiv.org/abs/2406.09202) (ACL 2024)
+[[スライド]](https://speakerdeck.com/ctaguchi/nlp-colloquium-sep-11-2024-taguchi) [[論文]](https://arxiv.org/abs/2406.09202) (ACL 2024)
