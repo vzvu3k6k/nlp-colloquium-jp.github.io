@@ -13,4 +13,4 @@ abstract: 言語モデルは、自然言語の背後に存在すると言われ�
 display: true
 ---
 
-[[スライド]](https://drive.google.com/file/d/1V-5FHdZ4EPVFNejMgYuXxrcO5hRxL7LK/view) [[論文]](https://aclanthology.org/2024.lrec-main.1356/) (LREC-COLING 2024)
+[[動画]](https://youtu.be/v3Xc7dsAJ7M) [[スライド]](https://drive.google.com/file/d/1V-5FHdZ4EPVFNejMgYuXxrcO5hRxL7LK/view) [[論文]](https://aclanthology.org/2024.lrec-main.1356/) (LREC-COLING 2024)
