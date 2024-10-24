@@ -3,6 +3,7 @@
 
   <!-- Head -->
   <head>
+  {% include scripts/jquery.html %}
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl | prepend: site.url }}/" />
   {%- endif -%}
@@ -24,7 +25,6 @@
     {%- include footer.html %}
 
     <!-- JavaScripts -->
-    {% include scripts/jquery.html %}
     {% include scripts/bootstrap.html %}
     {% include scripts/masonry.html %}
     {% include scripts/misc.html %}
