@@ -8,7 +8,7 @@
       </thead>
       <tbody>
         {% for item in site.schedule reversed %}
-          {% if forloop.index > site.initial_visible_rows %}
+          {% if site.enable_folding_table and (forloop.index > site.initial_visible_rows) %}
             {% assign row_class = "hidden-row" %}
           {% else %}
             {% assign row_class = "visible-row" %}
@@ -71,14 +71,18 @@
             </tr>
           {% endif %}
         {% endfor %}
+        {% if site.enable_folding_table and (site.schedule.size > site.initial_visible_rows) %}
         <tr class="expand-button-row" style="display: none;">
           <td colspan="4" align="center">
             <button class="btn btn-outline-danger" id="show-more-btn" role="button">すべて表示</a>
           </td>
         </tr>
+        {% endif %}
       </tbody>
     </table>
     
-    <script src="{{ '/assets/js/fold_table.js' | relative_url }}"></script>
+    {% if site.enable_folding_table %}
+      <script src="{{ '/assets/js/fold_table.js' | relative_url }}"></script>
+    {% endif %}
   </div>
 </div>
