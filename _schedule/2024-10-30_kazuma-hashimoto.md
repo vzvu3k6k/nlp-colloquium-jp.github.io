@@ -12,4 +12,4 @@ topic: 検索アイテムの付加価値推定と LLM での応用
 abstract: 検索 (Retrieval) を利用した NLP モデルの研究は長く行われており、近年では LLM と共に RAG や ICL という形で広く関心を集めています。トーク前半では、検索アイテムの選別に関して付加価値の推定の重要性を、1) 実応用 と 2) LLM における ICL、という二つの観点から紹介します。まず共通となる考え方を話し、1) では Product に絡めた例、2) ではマルチタスク・多言語対応のチャレンジの話をします。トークの残り時間では、急速に変化している NLP 研究開発の環境において、LLM 時代の一つの勢力のコアに近づいて働き始めたことで感じていること等を話します。
 display: true
 ---
-[[スライド]](https://hassygo.github.io/NLP_hashimoto_2024_10_30.pdf) [[論文1]](https://aclanthology.org/2024.naacl-long.221/) (NAACL 2024) [論文2] (TBA)
+[[スライド]](https://hassygo.github.io/NLP_hashimoto_2024_10_30.pdf) [[論文1]](https://aclanthology.org/2024.naacl-long.221/) (NAACL 2024) [[論文2]](https://aclanthology.org/2024.mrl-1.27/) (ACL 2024 Workshop)
