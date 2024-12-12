@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2024-01-15 12:00:00+0900
+date: 2025-01-15 12:00:00+0900
 time_em: false
 inline: false
 name: 渡部晋治
