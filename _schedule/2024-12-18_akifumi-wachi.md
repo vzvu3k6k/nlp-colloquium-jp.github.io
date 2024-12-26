@@ -13,4 +13,4 @@ abstract: 安全性と信頼性は、大規模言語モデル (LLM) の負の側
 display: true
 ---
 
-[[スライド]](https://speakerdeck.com/akifumi_wachi/nlpkorokiumu-sacpo-neurips-2024) [[論文]](https://arxiv.org/abs/2404.11049) (NeurIPS 2024)
+[[動画]](https://www.youtube.com/watch?v=-SKeuQibvoQ) [[スライド]](https://speakerdeck.com/akifumi_wachi/nlpkorokiumu-sacpo-neurips-2024) [[論文]](https://arxiv.org/abs/2404.11049) (NeurIPS 2024)
